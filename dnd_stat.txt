@@ -18,14 +18,14 @@ Prof. Bonus:+3
 Passive Perception:18
 Darkvision:60
 
-##Block3 - ResourcesCombat:Description:Quantity:Active:Extra:Active
+##Block3 - ResourcesCombat:Description,Quantity,Active,Extra,Active
 Hit Dice:5d8,5,5,8,0
 Ki Points:6/Short Rest,6,5,0,0
 1st LvL Slots:2/Long Rest,2,2,0,0
 Rush Attack:3/Short Rest,3,3,0,0
 Richochet:3/Short Rest,3,3,0,0
 
-##Block4 - ResourcesAdventuring:Description:Quantity:Active:Extra:Active
+##Block4 - ResourcesAdventuring:Description,Quantity,Active,Extra,Active
 Rations:10/Downtime,10,10,0,0
 Messenger:1/Long Rest,1,1,0,0
 
@@ -40,7 +40,7 @@ sp_val:1935
 gp_val:2520
 pp_val:29
 
-##Block6 - Attributes:Mod:Saving:Skills1234:Extra
+##Block6 - Attributes:Number,Mod,Saving,Skills1234,Extra
 STR:10,0,1,0,
 DEX:17,3,1,1,0,1,
 CON:17,3,0,
