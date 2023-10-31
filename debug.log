@@ -1,0 +1,391 @@
+[1026/140815.775:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1026/140816.416:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1026/140817.695:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/141435.820:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/141435.820:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1026/141820.619:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1026/141821.076:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1026/141822.211:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/141836.316:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/141836.317:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1026/141837.195:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1026/141837.621:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 30064771078 [7,6] will be ignored
+[1026/141837.622:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 30064771078 [7,6] will be ignored
+[1026/141844.110:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 30064771076 [7,4] will be ignored
+[1026/141913.056:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/141913.062:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/141913.698:INFO:CONSOLE(13)] "connected to presence channel", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/141913.769:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/141914.388:INFO:CONSOLE(13)] "connected to phoenix channel", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/141920.027:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/141955.983:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/141955.984:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1026/141955.984:INFO:CONSOLE(13)] "update channel close leave", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/141956.069:ERROR:command_buffer_proxy_impl.cc(321)] GPU state invalid after WaitForGetOffsetInRange.
+[1026/165304.783:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1026/165305.355:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1026/165306.837:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/165341.410:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/165341.410:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1026/165422.869:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1026/165423.523:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1026/165425.845:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/165452.935:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/165452.935:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1026/165523.404:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1026/165524.024:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1026/165525.176:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/165536.433:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/165536.434:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1026/185034.929:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1026/185035.411:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1026/185036.951:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185103.988:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/185103.988:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1026/185304.114:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1026/185304.662:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1026/185305.840:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185312.747:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1026/185313.296:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1026/185314.467:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185321.603:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/185321.603:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1026/185331.287:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1026/185331.647:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1026/185332.407:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185342.998:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/185342.998:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1026/185437.134:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1026/185437.463:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1026/185438.283:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185516.385:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/185516.385:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1026/185758.898:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1026/185759.452:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1026/185800.631:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185809.227:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/185809.227:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1026/185818.648:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1026/185818.985:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1026/185819.801:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185840.930:INFO:CONSOLE(225)] "Error: Invalid login credentials", source: https://www.owlbear.rodeo/assets/index.84f3b38d.js (225)
+[1026/185844.283:INFO:CONSOLE(225)] "Error: Invalid login credentials", source: https://www.owlbear.rodeo/assets/index.84f3b38d.js (225)
+[1026/185847.963:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185847.966:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185848.592:INFO:CONSOLE(13)] "connected to presence channel", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/185848.663:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185848.814:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1026/185848.852:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1026/185848.853:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1026/185848.853:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1026/185848.853:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1026/185848.855:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1026/185848.855:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1026/185848.855:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1026/185848.855:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1026/185848.858:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185848.871:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738376 [8,8]
+[1026/185848.871:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738376 [8,8]
+[1026/185848.871:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738376 [8,8]
+[1026/185848.871:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738376 [8,8]
+[1026/185848.873:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1026/185848.873:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1026/185848.873:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1026/185848.873:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1026/185848.953:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705677 [9,13]
+[1026/185848.953:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705677 [9,13]
+[1026/185848.953:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705677 [9,13]
+[1026/185848.953:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705677 [9,13]
+[1026/185848.963:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1026/185848.972:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738376 [8,8]
+[1026/185848.995:INFO:CONSOLE(1)] "HP Tracker version 1.3.7 initializing", source: https://hp-tracker.onrender.com/assets/background-16af8ddf.js (1)
+[1026/185849.001:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705677 [9,13]
+[1026/185849.344:INFO:CONSOLE(13)] "connected to phoenix channel", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/185849.415:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185849.457:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185849.656:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672974 [10,14]
+[1026/185850.242:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185850.254:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/185850.495:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672974 [10,14]
+[1026/185850.496:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672974 [10,14]
+[1026/185850.496:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672974 [10,14]
+[1026/185850.496:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672974 [10,14]
+[1026/185850.509:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672977 [10,17]
+[1026/185850.509:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672977 [10,17]
+[1026/185850.509:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672977 [10,17]
+[1026/185850.510:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672977 [10,17]
+[1026/185851.013:INFO:CONSOLE(1)] "false", source: https://ticker.battle-system.com/assets/main-51e83a8e.js (1)
+[1026/185856.157:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/190608.498:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/191627.936:INFO:CONSOLE(13)] "Unable to apply interaction TypeError: Cannot read properties of undefined (reading 'points')", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/191627.955:INFO:CONSOLE(13)] "Unable to apply interaction TypeError: Cannot read properties of undefined (reading 'points')", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/191713.854:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/191805.654:INFO:CONSOLE(13)] "update channel close leave", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/191805.866:INFO:CONSOLE(13)] "connected to phoenix channel", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/192230.824:INFO:CONSOLE(1)] "false false false", source: https://path-measure.onrender.com/assets/index-bb4bfe70.js (1)
+[1026/192337.630:INFO:CONSOLE(13)] "Unable to apply interaction TypeError: Cannot read properties of undefined (reading 'commands')", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/192337.634:INFO:CONSOLE(13)] "Unable to apply interaction TypeError: Cannot read properties of undefined (reading 'commands')", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/192337.653:INFO:CONSOLE(13)] "Unable to apply interaction TypeError: Cannot read properties of undefined (reading 'commands')", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/192337.658:INFO:CONSOLE(13)] "Unable to apply interaction TypeError: Cannot read properties of undefined (reading 'commands')", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/192400.881:INFO:CONSOLE(13)] "Interaction lasted too long: network sync stopped", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/192803.328:INFO:CONSOLE(3683)] "Roll exceeded max roll time: stopping dice", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3683)
+[1026/192827.350:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/193138.523:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/194253.524:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/195147.594:INFO:CONSOLE(13)] "Unable to apply interaction TypeError: Cannot read properties of undefined (reading 'points')", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/195147.613:INFO:CONSOLE(13)] "Unable to apply interaction TypeError: Cannot read properties of undefined (reading 'points')", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/200213.513:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/200404.593:INFO:CONSOLE(13)] "Unable to apply interaction TypeError: Cannot read properties of undefined (reading 'points')", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/200431.924:INFO:CONSOLE(13)] "Unable to apply interaction TypeError: Cannot read properties of undefined (reading 'radius')", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/200431.944:INFO:CONSOLE(13)] "Unable to apply interaction TypeError: Cannot read properties of undefined (reading 'radius')", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/200548.381:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/200709.920:INFO:CONSOLE(1)] "true false false", source: https://path-measure.onrender.com/assets/index-bb4bfe70.js (1)
+[1026/202818.532:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/203938.531:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/204438.489:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/204833.506:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/204954.811:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/205958.592:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/210238.500:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/210448.519:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/212432.643:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/213005.286:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/213843.526:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/214153.542:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/214608.517:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/214708.501:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/214953.519:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/215118.504:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/215128.503:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/215333.505:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/215408.503:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/215853.533:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/215944.678:INFO:CONSOLE(13)] "Interaction lasted too long: network sync stopped", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/220043.500:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/220135.521:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/221848.537:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/222209.612:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/222518.997:INFO:CONSOLE(13)] "update channel close leave", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/222519.085:INFO:CONSOLE(1)] "Uncaught (in promise) #<Object>", source: https://hp-tracker.onrender.com/assets/background-16af8ddf.js (1)
+[1026/222519.208:INFO:CONSOLE(13)] "connected to phoenix channel", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/222526.980:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/222703.515:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/223058.507:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/223504.476:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/223823.518:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/223948.027:INFO:CONSOLE(13)] "update channel close leave", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/223948.239:INFO:CONSOLE(13)] "connected to phoenix channel", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/225050.776:INFO:CONSOLE(3683)] "Roll exceeded max roll time: stopping dice", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3683)
+[1026/225701.760:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/230548.518:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/230950.740:INFO:CONSOLE(3683)] "Roll exceeded max roll time: stopping dice", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3683)
+[1026/231656.576:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1026/232504.763:INFO:CONSOLE(3558)] "THREE.WebGLRenderer: Context Lost.", source: https://dice.owlbear.rodeo/assets/PluginThemeProvider.ae15e0d6.js (3558)
+[1026/232725.161:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/232725.161:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1026/232725.162:INFO:CONSOLE(13)] "update channel close leave", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/232725.162:INFO:CONSOLE(13)] "update channel close leave", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/232725.162:INFO:CONSOLE(13)] "update channel close leave", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/232725.162:INFO:CONSOLE(13)] "update channel close leave", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1026/232725.314:ERROR:command_buffer_proxy_impl.cc(321)] GPU state invalid after WaitForGetOffsetInRange.
+[1026/232725.316:ERROR:command_buffer_proxy_impl.cc(321)] GPU state invalid after WaitForGetOffsetInRange.
+[1028/184443.281:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1028/184448.202:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1028/184924.248:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1028/184928.647:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1028/184929.983:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1028/184958.090:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1028/184958.090:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1028/185158.652:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1028/185200.783:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1028/185201.589:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1028/185232.821:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1028/185232.821:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1030/020427.602:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1030/020439.541:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1030/020447.669:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1030/020448.929:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1030/020448.929:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1030/020448.950:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1030/020708.282:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1030/020711.379:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1030/020713.066:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1030/020718.498:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1030/020718.498:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1030/020718.509:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1030/020812.936:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1030/020815.646:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1030/020816.963:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1030/020843.468:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1030/020843.468:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1030/020843.477:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1030/020902.086:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1030/020904.131:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1030/020905.280:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1030/020909.459:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1030/020909.459:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1030/021035.544:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1030/021038.215:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1030/021039.873:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1030/021053.075:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1030/021053.075:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1030/021115.336:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1030/021117.717:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1030/021118.462:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1030/021121.356:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1030/021121.356:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1030/021135.818:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1030/021139.283:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1030/021140.403:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1030/021544.703:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1030/021544.703:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1030/021614.622:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1030/021616.555:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1030/021617.680:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1030/022739.891:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1030/022739.892:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1030/022749.738:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1030/022752.168:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1030/022753.902:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1030/023444.248:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1030/023444.248:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
+[1030/023445.977:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1030/023448.009:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1030/023449.691:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1030/023509.020:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.5d984708.js (13)
+[1030/023509.021:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.0bd0cbbb.js (2)
