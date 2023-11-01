@@ -49,6 +49,7 @@ WIS:14,2,0,0,1,1,2,0,
 CHA:8,-1,0,0,0,0,0,
 
 ##Block7 - [Actions]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
+## For ammotracking, add an additional block after the weapon option {,Ammomax,Ammocurrent,A}
 [Crucible Spear +2]:{One Hand,+8,1d6 + 5 Piercing,M};{Two Hand,+8,1d8 + 5 Piercing,M};{Thrown 20/60,+8,1d6 + 5 Piercing,R}|Non-Magical Spear made with Crucible and can be thrown
 [Unarmed Strikes]:{Unarmed,+6,1d4 + 3 Bludgening,M}|Monk attacks
 [Steel Light Hammer +1]:{One Hand,+7,1d6 + 4 Bludgening,M};{Thrown 20/60,+7,Same,R}|Mol's proud upgrade to his hammer
