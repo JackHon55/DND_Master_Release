@@ -16,3 +16,14 @@ ERROR: Failed parsing Certificate
 [1101/194548.532:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.9bd8bf3b.js (13)
 [1101/194548.532:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.f8131bd3.js (2)
 [1101/194548.543:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1101/204234.664:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1101/204237.321:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1101/204241.571:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1102/030200.939:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1102/030203.778:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1102/030208.708:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1102/030230.975:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1102/030236.029:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1102/030237.279:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1102/030248.532:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1102/030250.763:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything

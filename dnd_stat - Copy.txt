@@ -13,21 +13,23 @@ Exhaustion:0
 ##Block2 - Other Stat
 Walking Speed:35
 Flying Speed:60
-Initiative:3
-Prof. Bonus:3
+Initiative:+3
+Prof. Bonus:+3
 Passive Perception:18
 Darkvision:60
 
-##Block3 - Resources:Description:Quantity:Active:Extra:Active
+##Block3 - ResourcesCombat:Description,Quantity,Active,Extra,Active
 Hit Dice:5d8,5,5,8,0
 Ki Points:6/Short Rest,6,5,0,0
 1st LvL Slots:2/Long Rest,2,2,0,0
-Rations:10/Downtime,10,10,0,0
 Rush Attack:3/Short Rest,3,3,0,0
 Richochet:3/Short Rest,3,3,0,0
+
+##Block4 - ResourcesAdventuring:Description,Quantity,Active,Extra,Active
+Rations:10/Downtime,10,10,0,0
 Messenger:1/Long Rest,1,1,0,0
 
-##Block4 - Gold & HP
+##Block5 - Gold & HP
 Temphp:0
 AC_val:15
 AC_extra:
@@ -38,7 +40,7 @@ sp_val:1935
 gp_val:2520
 pp_val:29
 
-##Block5 - Attributes:Mod:Saving:Skills1234:Extra
+##Block6 - Attributes:Number,Mod,Saving,Skills1234,Extra
 STR:10,0,1,0,
 DEX:17,3,1,1,0,1,
 CON:17,3,0,
@@ -46,32 +48,30 @@ INT:13,1,0,0,0,0,0,0,
 WIS:14,2,0,0,1,1,2,0,
 CHA:8,-1,0,0,0,0,0,
 
-##Block6 - [Actions]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
+##Block7 - [Actions]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
 [Crucible Spear +2]:{One Hand,+8,1d6 + 5 Piercing,M};{Two Hand,+8,1d8 + 5 Piercing,M};{Thrown 20/60,+8,1d6 + 5 Piercing,R}|Non-Magical Spear made with Crucible and can be thrown
 [Unarmed Strikes]:{Unarmed,+6,1d4 + 3 Bludgening,M}|Monk attacks
 [Steel Light Hammer +1]:{One Hand,+7,1d6 + 4 Bludgening,M};{Thrown 20/60,+7,Same,R}|Mol's proud upgrade to his hammer
 [Thor Cultist Hammer]:{One Hand,+6,1d6 + 4 Bludgening,M};{Thrown 20/60,+6,Extra 1d10 Thunder,R}|Picked up from the Thor Cultist fight where Jalhfor left
 [Booming Blade]:{Spell, ,Extra 1d8 Thunder,N};{Movement, ,Extra 2d8 Thunder,N}|BLACK FLASH!
 
-##Block7 - [Bonus]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
+##Block8 - [Bonus]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
 [Monk Training]:{Unarmed,+6,1d4 + 3 Bludgening,M}|Basic Monk Punch
 [1 Ki. Flurry of Blows]:{Unarmed x2,+6,1d4 + 3 Bludgening,M};{STR DC 13, ,Shoved 15ft,N};{DEX DC 13, ,Prone,N};{ , ,No Reactions,N}|Open Hand Monk Features
 [1 Ki. Patient Defence]:{ , ,Dodge Action,N,}|
 [1 Ki. Step of the Wind]:{ , ,Dash Action,N,};{ , ,Disengage Action,N,}|
 [Arcane Weapon]:{Spell,1st,Extra 1d6 ELE,N}|Choice of Fire, Col, Acid, Lightning, Thunder, Poison
 
-##Block8 - [Reaction]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
+##Block9 - [Reaction]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
 [Deflect Missles]:{Catch 1d10,+6,When targetted,N};{Thrown 20/60,+6,DMG of projectile,R}|Attempt to catch a projectile targetted at you and can send it back using Ki
 [Opportunity Attacks - Unarmed Strikes]:{Unarmed,+6,1d4 + 3 Bludgening,M}|Melee Attack with punches when someone leaves 5ft
 [Opportunity Attacks - Crucible Spear]:{One Hand,+8,1d6 + 5 Piercing,M};{Two Hand,+8,1d8 + 5 Piercing,M}|
 [Opportunity Attacks - Light Hammers]:{Steel,+7,1d6 + 4 Bludgening,M};{Cultist,+6,1d6 + 4 Bludgening,M}|
 
-##Block9 - Features:Shortdescript|Longdescript
-Weapons:Simple, Shortswords|Monk Starting Proficiencies
-Armour:Light, Medium, Shields|Artificer Multiclass Proficiencies
-Tools:Smiths, Woodcarver, Theives, Tinker's|I am a craftsman!
+##Block10 - Features:Shortdescript|Longdescript
+Proficiencies:|Weapons - Simple, Shortswords^Armour - Light, Medium, Shields^Tools - Smiths, Woodcarver, Theives, Tinker's
 
-##Block10 - Equipment:Shortdescript|Longdescript|Color
+##Block11 - Equipment:Shortdescript|Longdescript|Color
 Low Potion of Wrath:RAGE for 1 Min|100 gp, Gain the effects of Rage for 1 min. Resistance to all physical damage and +2 to melee weapon attacks. Bonus action to use, or action to feed.|Blue
 Spell Scroll:Stacks up to 20|Produce Flame Cantrip^Beast Bond 1st level|Blue
 Crucible Spear:+2 Weapon|Melee Versatile Weapon, 1d6/1d8^Thrown 20/60^Troll chain attached for flavour with Returning Weapon|Blue
