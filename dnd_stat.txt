@@ -1,6 +1,6 @@
 ##*Mol DnD
-##^https://www.owlbear.rodeo/room/nGAe7THjRBX5/Staldorn%28Thursdays%29
-##@"C:\Users\jack_\AppData\Local\Discord\app-1.0.9021\Discord.exe"
+##^https://www.owlbear.rodeo/room/your-room-url
+##@"C:\Users\username\AppData\Local\Discord\app-1.0.9021\Discord.exe"
 ##EquipmentSlot-15
 ##SpellAmount-6
 
