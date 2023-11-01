@@ -10,7 +10,7 @@ Releases of DND Master program
 7. Enjoy!
 
 # Big Panel Tabs OwlBear, Discord, Data-Notepad
-1. Online TTRPG platform owlbear is integrated. If you have a working owlbear room link in the dnd_stat.txt file, you can interact with owlbear freely. (but requires sign in every time)
+1. Online VTT platform owlbear is integrated. If you have a working owlbear room link in the dnd_stat.txt file, you can interact with owlbear freely. (but requires sign in every time)
 2. Discord can be launched from the program, allowing access with no need for alt-tab. This instance of discord is from your computer, and it is just launching it then placing it into the program (therefore it is safe)
 3. Data-Notepad has instructions on how to modify dnd_stat.txt. You can freely make as many copies as required and save them under any name. You can have one stat file open at a time, and can load the current opened stat file data into the program. Any changes made to the notepad can also be saved as usual (this notepad is just an instance of notepad opened from your computer, then placed into the program)
 
