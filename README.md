@@ -4,7 +4,7 @@ Releases of DND Master program
 1. Download, go to code and download the zip file
 2. Unzip the file anywhere you like
 3. Enter the extracted folder and unzip the libcef file
-5. Only Windows Scaling 100% is supported. Change it in Desktop->Right Click->Display Settings before you run the program (Don't know why but it sucks for me too)
+5. Only Windows Scaling 100% is supported. Change it in Desktop->Right Click->Display Settings->Scale and Layout before you run the program* (Don't know why but it sucks for me too)
 6. Run DND_HP.exe and load dnd_stat when prompted
 7. Follow the instructions on the Data-Notepad tab in DND_HP to modify my character sheet into yours
 8. Enjoy!
@@ -51,3 +51,8 @@ Releases of DND Master program
 # Notes
 1. Allows user to create sticky notes that can be placed around the screen.
 2. WIP no method of deleting them yet other than manually from the dnd_stat.txt They can be closed off and stored
+
+* If the program still looks odd, check the following
+1. You are using the windows 100% scaling, not the custom one that you can access under Scale and Layout->Advanced scaling settings
+2. In the Advanced scaling settings, make sure "Fix scaling for apps" is turned on
+3. Right click DND_HP.exe->Properties->Compatibility->Change High DPI setting, ensure everything is not ticked
