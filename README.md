@@ -5,9 +5,10 @@ Releases of DND Master program
 2. Unzip the file anywhere you like
 3. Enter the extracted folder and unzip the libcef file
 4. Move the libcef.dll into the x64 folder
-5. Run DND_HP.exe and load dnd_stat when prompted
-6. Follow the instructions on the Data-Notepad tab in DND_HP to modify my character sheet into yours
-7. Enjoy!
+5. Only Windows Scaling 100% is supported. Change it in Desktop->Right Click->Display Settings before you run the program (Don't know why but it sucks for me too)
+6. Run DND_HP.exe and load dnd_stat when prompted
+7. Follow the instructions on the Data-Notepad tab in DND_HP to modify my character sheet into yours
+8. Enjoy!
 
 # Big Panel Tabs OwlBear, Discord, Data-Notepad
 1. Online VTT platform owlbear is integrated. If you have a working owlbear room link in the dnd_stat.txt file, you can interact with owlbear freely. (but requires sign in every time)
