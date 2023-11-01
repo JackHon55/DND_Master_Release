@@ -3,7 +3,7 @@ Releases of DND Master program
 
 1. Download, go to code and download the zip file
 2. Unzip the file anywhere you like
-3. Enter the extracted folder and unzip the libcef file
+3. Enter the extracted folder and unzip the libcef file. Make sure the resulting .dll file is in the same place as DND_HP.exe
 5. Only Windows Scaling 100% is supported. Change it in Desktop->Right Click->Display Settings->Scale and Layout before you run the program* (Don't know why but it sucks for me too)
 6. Run DND_HP.exe and load dnd_stat when prompted
 7. Follow the instructions on the Data-Notepad tab in DND_HP to modify my character sheet into yours
