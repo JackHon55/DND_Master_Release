@@ -7,9 +7,9 @@ Releases of DND Master program - Version 1.3 updated 7/11/2023
 4. Only Windows Scaling 100% is supported. Change it in Desktop->Right Click->Display Settings->Scale and Layout before you run the program* (Don't know why but it sucks for me too)
 5. Run DND_HP.exe and load dnd_stat when prompted
 6. Follow the instructions on the Data-Notepad tab in DND_HP to modify my character sheet into yours
-7. Enjoy!
 
-8. For updates, you should re-download the whole thing again, just make sure you keep your version of dnd_stat.txt
+7. For updates, you should re-download the whole thing again, just make sure you keep your version of dnd_stat.txt
+8. Starting from version 1.3, add ##RBColors-Black,Blue,Purple,White to the starting lines of dnd_stat.txt, for example, right after ##SpellAmount-
 
 # Big Panel Tabs OwlBear, Discord, Data-Notepad
 1. Online VTT platform owlbear is integrated. If you have a working owlbear room link in the dnd_stat.txt file, you can interact with owlbear freely. (but requires sign in every time)
