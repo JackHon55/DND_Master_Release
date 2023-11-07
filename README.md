@@ -1,5 +1,5 @@
 # DND_Master_Release
-Releases of DND Master program
+Releases of DND Master program - Version 1.3 updated 7/11/2023
 
 1. Download, go to code and download the zip file
 2. Unzip the file anywhere you like
@@ -9,12 +9,13 @@ Releases of DND Master program
 6. Follow the instructions on the Data-Notepad tab in DND_HP to modify my character sheet into yours
 7. Enjoy!
 
-8. For updates, you should only need to re-download the DND_HP.exe. Of course if that doesnt work, re-download the whole thing again, just make sure you keep your version of dnd_stat.txt
+8. For updates, you should re-download the whole thing again, just make sure you keep your version of dnd_stat.txt
 
 # Big Panel Tabs OwlBear, Discord, Data-Notepad
 1. Online VTT platform owlbear is integrated. If you have a working owlbear room link in the dnd_stat.txt file, you can interact with owlbear freely. (but requires sign in every time)
 2. Discord can be launched from the program, allowing access with no need for alt-tab. This instance of discord is from your computer, and it is just launching it then placing it into the program (therefore it is safe)
 3. Data-Notepad has instructions on how to modify dnd_stat.txt. You can freely make as many copies as required and save them under any name. You can have one stat file open at a time, and can load the current opened stat file data into the program. Any changes made to the notepad can also be saved as usual (this notepad is just an instance of notepad opened from your computer, then placed into the program)
+4. The Colour Button allows minor customisation of the resource button colour scheme.
 
 # HP tracker
 1. Tracking for Temporary HP, Max HP, Current HP, Max HP adjusting effects such as from the Aid spell
@@ -32,7 +33,7 @@ Releases of DND Master program
 2. Spell Slot tracker is similar, but is automated to deplete spell slots as you cast spells
 3. Gold tracker allows you to enter DnD gold values as a line of text such as 100cp 200sp 340 gp 2pp and have it recorded. You can split the gold by having the number of people to split to in the small box next to split, then click on split.
 4. Mol button is an easter egg, it splits the gold in a way such that you will lose out, but everyone else gets a little bit more.
-5. Equipment page lists the name of your stuff. You can click on the boxes to view the equipment, edit/remove as you wish.
+5. Equipment page lists the name of your stuff. You can click on the boxes to view the equipment, edit/remove as you wish. Empty slots will remain as Empty_x, and you can add/remove slots by right clicking. You can also reorder by right clicking
 
 # Attributes
 1. You DND statblocks are listed here with an extra textbox in each to allow for modification to the entire attribute
@@ -42,13 +43,15 @@ Releases of DND Master program
 # Spell page
 1. You list of spells listed in a similar way as the Equipment page
 2. Clicking on one brings up the spellcard, which you can edit/remove, or cast
-3. Casting automatically consumes the spell slot of the level you are casting in
-4. You can also upcast the spell and the corresponding spell slot will be consumed
+3. Empty slots will remain as Empty_x, and you can add/remove slots by right clicking. You can also reorder by right clicking
+4. Casting automatically consumes the spell slot of the level you are casting in
+5. You can also upcast the spell and the corresponding spell slot will be consumed
 
 # Action-Bonus Action-Reaction-Feature
 1. These pages hold you character features and options, and you are relatively free to customise them however you want
 2. The melee hit and range hit modifier allows you to track to attack modifier bonuses outside of your +weapons
 3. The extra textbox for notes and these modifier tracker are shared across all pages
+4. You can click on the options of the weapon (such as Thrown 20/60) to create a temporary note with the details, allowing ease of information access
 
 # Notes
 1. Allows user to create sticky notes that can be placed around the screen.
