@@ -56,3 +56,8 @@ ERROR: Failed parsing Certificate
 
 [1115/195734.080:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.ae058d90.js (13)
 [1115/195734.080:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.d5e552c7.js (2)
+[1115/233852.029:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1115/233857.092:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1115/233857.990:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.ae058d90.js (13)
+[1115/233857.990:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.d5e552c7.js (2)
+[1115/233858.001:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
