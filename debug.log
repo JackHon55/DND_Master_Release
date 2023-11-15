@@ -37,3 +37,22 @@ ERROR: Failed parsing Certificate
 [1102/132724.319:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.f8131bd3.js (2)
 [1106/001443.844:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
 [1106/001448.208:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1109/015305.271:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1109/015312.365:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1111/024630.295:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1111/024637.580:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1111/024639.187:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1111/024643.757:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.9bd8bf3b.js (13)
+[1111/024643.758:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.f8131bd3.js (2)
+[1111/024643.776:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1115/195717.496:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1115/195725.693:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1115/195727.000:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1115/195734.080:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.ae058d90.js (13)
+[1115/195734.080:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.d5e552c7.js (2)

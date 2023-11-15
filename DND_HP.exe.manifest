@@ -90,14 +90,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DND_HP.exe" size="462848">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DND_HP.exe" size="460800">
       <assemblyIdentity name="DND_HP" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>SiHfXXeywr1B64qLgWeSiCZzih6w4WOxOfLDEVkkmPU=</dsig:DigestValue>
+        <dsig:DigestValue>h1QinhGEBlARBdOIGzlDplb0lYVMRxoT3Kxl0ev6tq8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

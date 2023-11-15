@@ -1,11 +1,11 @@
-##*Mol DnD
-##^https://www.owlbear.rodeo/room/your-room-url
-##@"C:\Users\username\AppData\Local\Discord\app-1.0.9021\Discord.exe"
-##EquipmentSlot-15
-##SpellAmount-6
+##*(Insert Name) DnD
+##^https://www.owlbear.rodeo/room/nGAe7THjRBX5/Staldorn%28Thursdays%29
+##EquipmentSlot-10
+##SpellAmount-12
+##RBColors-Black,White,Purple,Yellow
 
 ##Block1 - Key Stat
-Inspiration:1
+Inspiration:0
 DeathSucc:0
 DeathFail:0
 Exhaustion:0
@@ -19,96 +19,80 @@ Passive Perception:18
 Darkvision:60
 
 ##Block3 - ResourcesCombat:Description,Quantity,Active,Extra,Active
-Hit Dice:5d8,5,5,8,0
-Ki Points:6/Short Rest,6,5,0,0
+Hit Dice:5d8,5,3,8,2
+Ki Points:6/Short Rest,3,3,0,0
 1st LvL Slots:2/Long Rest,2,2,0,0
 Rush Attack:3/Short Rest,3,3,0,0
 Richochet:3/Short Rest,3,3,0,0
 
-##Block4 - ResourcesAdventuring:Description,Quantity,Active,Extra,Active
+##Block4 - ResourcesAdventuring:Description:Quantity:Active:Extra:Active
 Rations:10/Downtime,10,10,0,0
 Messenger:1/Long Rest,1,1,0,0
 
 ##Block5 - Gold & HP
 Temphp:0
 AC_val:15
-AC_extra:
-Currhp:37
-Maxhp:37
-cp_val:696
-sp_val:1935
-gp_val:2520
-pp_val:29
+AC_extra:2
+Currhp:10
+Maxhp:10
+cp_val:0
+sp_val:0
+gp_val:0
+pp_val:0
 
-##Block6 - Attributes:Number,Mod,Saving,Skills1234,Extra
-STR:10,0,1,0,
-DEX:17,3,1,1,0,1,
-CON:17,3,0,
-INT:13,1,0,0,0,0,0,0,
-WIS:14,2,0,0,1,1,2,0,
-CHA:8,-1,0,0,0,0,0,
+##Block6 - 
+STR:{Score=10},{Mod=x}+0,{Color=Yellow},{Saving=*}+0,{Athletics=}+2
+DEX:{Score=17},{Mod=x}+0,{Color=Green},{Saving=*}+0,{Acrobatics=*}+0,{Sleight=}+0,{Stealth=*}+0
+CON:{Score=17},{Mod=x}+0,{Color=Red},{Saving=}+0
+INT:{Score=13},{Mod=x}+0,{Color=Blue},{Saving=}+0,{Arcana=}+0,{History=}+0,{Investigate=}+0,{Nature=}+0,{Religion=}+0,{Woodcarver=*}+0,{Smith=*}+0,{Mason=}+0
+WIS:{Score=14},{Mod=x}+3,{Color=Purple},{Saving=}+0,{Animal=}+0,{Insight=*}+0,{Medicine=*}+0,{Perception=**}+0,{Survival=}+0
+CHA:{Score=8},{Mod=x}+0,{Color=Orange},{Saving=}+0,{Deception=}+1,{Intimidation=}+0,{Performance=}+0,{Persuasion=}+1
 
 ##Block7 - [Actions]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
-## For ammotracking, add an additional block after the weapon option {,Ammomax,Ammocurrent,A}
 [Crucible Spear +2]:{One Hand,+8,1d6 + 5 Piercing,M};{Two Hand,+8,1d8 + 5 Piercing,M};{Thrown 20/60,+8,1d6 + 5 Piercing,R}|Non-Magical Spear made with Crucible and can be thrown
-[Unarmed Strikes]:{Unarmed,+6,1d4 + 3 Bludgening,M}|Monk attacks
-[Steel Light Hammer +1]:{One Hand,+7,1d6 + 4 Bludgening,M};{Thrown 20/60,+7,Same,R}|Mol's proud upgrade to his hammer
-[Thor Cultist Hammer]:{One Hand,+6,1d6 + 4 Bludgening,M};{Thrown 20/60,+6,Extra 1d10 Thunder,R}|Picked up from the Thor Cultist fight where Jalhfor left
-[Booming Blade]:{Spell, ,Extra 1d8 Thunder,N};{Movement, ,Extra 2d8 Thunder,N}|BLACK FLASH!
+[Crossbow]:{Arrow 60/320,+6,1d6 + 3 Piercing,M};{,20,17,A};{Steel Arrow,+8,1d6 + 5 Piercing,M};{,20,3,A}|Crossbow attacks
 
 ##Block8 - [Bonus]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
-[Monk Training]:{Unarmed,+6,1d4 + 3 Bludgening,M}|Basic Monk Punch
-[1 Ki. Flurry of Blows]:{Unarmed x2,+6,1d4 + 3 Bludgening,M};{STR DC 13, ,Shoved 15ft,N};{DEX DC 13, ,Prone,N};{ , ,No Reactions,N}|Open Hand Monk Features
-[1 Ki. Patient Defence]:{ , ,Dodge Action,N,}|
-[1 Ki. Step of the Wind]:{ , ,Dash Action,N,};{ , ,Disengage Action,N,}|
-[Arcane Weapon]:{Spell,1st,Extra 1d6 ELE,N}|Choice of Fire, Col, Acid, Lightning, Thunder, Poison
 
 ##Block9 - [Reaction]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
-[Deflect Missles]:{Catch 1d10,+6,When targetted,N};{Thrown 20/60,+6,DMG of projectile,R}|Attempt to catch a projectile targetted at you and can send it back using Ki
-[Opportunity Attacks - Unarmed Strikes]:{Unarmed,+6,1d4 + 3 Bludgening,M}|Melee Attack with punches when someone leaves 5ft
-[Opportunity Attacks - Crucible Spear]:{One Hand,+8,1d6 + 5 Piercing,M};{Two Hand,+8,1d8 + 5 Piercing,M}|
-[Opportunity Attacks - Light Hammers]:{Steel,+7,1d6 + 4 Bludgening,M};{Cultist,+6,1d6 + 4 Bludgening,M}|
 
-##Block10 - Features:Shortdescript|Longdescript
-Proficiencies:|Weapons - Simple, Shortswords^Armour - Light, Medium, Shields^Tools - Smiths, Woodcarver, Theives, Tinker's
+##Block10 - Features:Shortdescript|Longdescript (indicate new lines with ^)
+Proficiencies:Weapons, Armour, Tools, Languages|Weapons - Simple, Shortswords^Armour - Light, Medium, Shields^Tools - Smiths, Woodcarver, Theives, Tinker's^Languages - Common, Hrafn, Dwarvish, Jotunn (11/800)
+Messenger:Cast the Sending Spell at will 1/Long|Cast the Sending Spell at will 1/Long Rest^You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message.^^You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn't arrive.
 
-##Block11 - Equipment:Shortdescript|Longdescript|Color
-Low Potion of Wrath:RAGE for 1 Min|100 gp, Gain the effects of Rage for 1 min. Resistance to all physical damage and +2 to melee weapon attacks. Bonus action to use, or action to feed.|Blue
-Spell Scroll:Stacks up to 20|Produce Flame Cantrip^Beast Bond 1st level|Blue
-Crucible Spear:+2 Weapon|Melee Versatile Weapon, 1d6/1d8^Thrown 20/60^Troll chain attached for flavour with Returning Weapon|Blue
-Explorer's Pack:For Rations|Contains Backpack,bedroll,mess kit,tinderbox,torch (10),rations (10),waterskin,hempen rope|Blue
-Steel Light Hammer:+1 Weapon|Melee Weapon, 1d6 Bludgeoning^Thrown 20/60^Mol Made this!|Blue
-Cultist Light Hammer:Rank 1 Rune Weapon|Melee Weapon, 1d6 Bludgeoning^Thrown 20/60, Extra 1d10 Thunder^Returns to user's hand at start of next turn|Blue
-Smith's Tool:For Smithing!|Smith's tools allow you to work metal, beating it to alter its shape, repair damage, or work raw ingots into useful items.^^Components. Smith's tools include hammers, tongs, charcoal, rags, and a whetstone.^^Arcana and History. Your expertise lends you additional insight when examining metal objects, such as weapons.^^Investigation. You can spot clues and make deductions that others might overlook when an investigation involves armor, weapons, or other metalwork.^^Repair. With access to your tools and an open flame hot enough to make metal pliable, you can restore 10 hit points to a damaged metal object for each hour of work.|Blue
-Dragon Bones:10 lbs|Stolen from some goblins, we know they can make magical +1 weapons with cold damage properties|Blue
-Net:Range Special Weapon|Range Special Weapon^Thrown 5/15^If hit, the target is restrained and needs to succeed in DC 10 Athletics check to free, or attack the net with 5 slashing damage and 10AC|Blue
-Figure Pouch:An ornate pouch with wooden carvings|Contains an assortment of wooden figurines that Mol has been working on. A few Ravens, an aligator, a lindwurm, wolves, horses, other birds, dragon heads|Blue
-Woodcarver Tool:For Woodcarving!|Woodcarver's Tools^Woodcarver's tools allow you to craft intricate objects from wood, such as wooden tokens or arrows.^^Components. Woodcarver's tools consist of a knife, a gouge, and a small saw.^^Arcana, History. Your expertise lends you additional insight when you examine wooden objects, such as figurines or arrows.^^Nature. Your knowledge of wooden objects gives you some added insight when you examine trees.^^Repair. As part of a short rest, you can repair a single damaged wooden object.^^Craft Arrows. As part of a short rest, you can craft up to five arrows. As part of a long rest, you can craft up to twenty. You must have enough wood on hand to produce them.|Orange
-Mason's Tool:For Stone Carving!|Not proficient, so I can only use it to carve rocks, mainly for Rune Engravings|Orange
-Runes 2x:Mannaz and Gebo Rune|Mannaz and Gebo Rune|Orange
-:||Orange
-Misc:Bunch of stuff that takes no space|Traveler clothes, A broken unfinished Sword hilt, humanoid teeth with blood, lindwurm scale. Rope 50ft, Green Serpentine Scale, |Purple
+##Block11 - Equipment:Shortdescript|Longdescript|Color (indicate new lines with ^)
+Low Potion of Wrath:RAGE for 1 Min|100 gp, Gain the effects of Rage for 1 min. Resistance to all physical damage and +2 to melee weapon attacks. Bonus action to use, or action to feed.|Red
+Empty_2:||Gray
+Empty_3:||Gray
+Empty_4:||Gray
+Empty_5:||Gray
+Empty_6:||Gray
+Empty_7:||Gray
+Empty_8:||Gray
+Empty_9:||Gray
+Empty_10:||Gray
 
 ##Block12 - SpellSlots
 1st Level:,2,2,0,0
+2nd Level:,1,1,0,0
 
-##Block13 - Spell list
-Booming Blade:Cantrip
-Booming Blade-Land:Melee Weapon Attack
-Booming Blade-Damage:1d8 Thunder^+2d8 If Move
-Booming Blade-Info:Action;S,M;1 Round;Self, Target within 5ft
-Booming Blade-LongInfo:5th Level Evocation Cantrip^You brandish the weapon used in the spell’s casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack’s normal effects and then becomes sheathed in booming energy until the start of your next turn. If the target willingly moves 5 feet or more before then, the target takes 1d8 thunder damage, and the spell ends.^^At Higher Levels. At 5th level, the melee attack deals an extra 1d8 thunder damage to the target on a hit, and the damage the target takes for moving increases to 2d8. Both damage rolls increase by 1d8 at 11th level (2d8 and 3d8) and again at 17th level (3d8 and 4d8).
-Booming Blade-Dice:8
-Booming Blade-Color:Orange
-Booming Blade-Upcast:;;
-Message:Cantrip
-Message-Land:Utility
-Message-Damage:Telepathic^Communication
-Message-Info:Action;V,S,M;1 Round;1 Target 120ft can do around corners
-Message-LongInfo:Transmutation Cantrip^You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.^^You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
-Message-Dice:100
-Message-Color:Orange
-Message-Upcast:;;
+##Block13 - 
+FireBolt:Cantrip
+FireBolt-Land:To Hit d20+8
+FireBolt-Damage:2d10^(+4 Acid)
+FireBolt-Info:Action;V,S;Instant;1 Target 120ft
+FireBolt-LongInfo:5th Level Evocation Cantrip^You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.^^At Higher Levels. This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+FireBolt-Dice:10
+FireBolt-Color:Orange
+FireBolt-Upcast:;;
+Chromatic Orb:1st Level
+Chromatic Orb-Land:To Hit d20+8
+Chromatic Orb-Damage:3d8^(+4 Acid)
+Chromatic Orb-Info:Action;V,S,M;Instant;1 Target 90ft
+Chromatic Orb-LongInfo:1st Level Evocation Spell^You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose.^^At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+Chromatic Orb-Dice:8
+Chromatic Orb-Color:Green
+Chromatic Orb-Upcast:1;1;1
 Arcane Weapon:1st Level
 Arcane Weapon-Land:Weapon Attacks
 Arcane Weapon-Damage:Extra 1d6^Elemental
@@ -117,32 +101,78 @@ Arcane Weapon-LongInfo:1st-Level Transmutation^You channel arcane energy into on
 Arcane Weapon-Dice:6
 Arcane Weapon-Color:Purple
 Arcane Weapon-Upcast:0;1;1
-Absorb Elements:1st Level
-Absorb Elements-Land:Melee Attack
-Absorb Elements-Damage:Resistance*^1d6 Same Type
-Absorb Elements-Info:Reaction;S;1 Round;Self
-Absorb Elements-LongInfo:1st Level Abjuration Spell^The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.^^At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
-Absorb Elements-Dice:6
-Absorb Elements-Color:Purple
-Absorb Elements-Upcast:1;1;1
-Produce Flame:Spell Scroll
-Produce Flame-Land:Spell Attack d20+4
-Produce Flame-Damage:2d8 Fire^Damage
-Produce Flame-Info:Action;V,S;10 Minutes;10ft Bright 10ft Dim light, 1 Target 30ft
-Produce Flame-LongInfo:5th Level Conjuration Cantrip^A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again.^^You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.^^At Higher Levels. This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
-Produce Flame-Dice:8
-Produce Flame-Color:Green
-Produce Flame-Upcast:;;
-Beast Bond:Spell Scroll
-Beast Bond-Land:Utility, Min. 4 INT Stat
-Beast Bond-Damage:Charmed^Communication
-Beast Bond-Info:Action;V,S,M;Concentration, 10 Mins;Touch
-Beast Bond-LongInfo:You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.
-Beast Bond-Dice:100
-Beast Bond-Color:Green
-Beast Bond-Upcast:;;
+Empty_4: 
+Empty_4-Land: 
+Empty_4-Damage: 
+Empty_4-Info:;;;
+Empty_4-LongInfo: 
+Empty_4-Dice:0
+Empty_4-Color: 
+Empty_4-Upcast:;;
+Empty_5: 
+Empty_5-Land: 
+Empty_5-Damage: 
+Empty_5-Info:;;;
+Empty_5-LongInfo: 
+Empty_5-Dice:0
+Empty_5-Color: 
+Empty_5-Upcast:;;
+Empty_6: 
+Empty_6-Land: 
+Empty_6-Damage: 
+Empty_6-Info:;;;
+Empty_6-LongInfo: 
+Empty_6-Dice:0
+Empty_6-Color: 
+Empty_6-Upcast:;;
+Empty_7: 
+Empty_7-Land: 
+Empty_7-Damage: 
+Empty_7-Info:;;;
+Empty_7-LongInfo: 
+Empty_7-Dice:0
+Empty_7-Color: 
+Empty_7-Upcast:;;
+Empty_8: 
+Empty_8-Land: 
+Empty_8-Damage: 
+Empty_8-Info:;;;
+Empty_8-LongInfo: 
+Empty_8-Dice:0
+Empty_8-Color: 
+Empty_8-Upcast:;;
+Empty_9: 
+Empty_9-Land: 
+Empty_9-Damage: 
+Empty_9-Info:;;;
+Empty_9-LongInfo: 
+Empty_9-Dice:0
+Empty_9-Color: 
+Empty_9-Upcast:;;
+Empty_10: 
+Empty_10-Land: 
+Empty_10-Damage: 
+Empty_10-Info:;;;
+Empty_10-LongInfo: 
+Empty_10-Dice:0
+Empty_10-Color: 
+Empty_10-Upcast:;;
+Empty_11: 
+Empty_11-Land: 
+Empty_11-Damage: 
+Empty_11-Info:;;;
+Empty_11-LongInfo: 
+Empty_11-Dice:0
+Empty_11-Color: 
+Empty_11-Upcast:;;
+Empty_12: 
+Empty_12-Land: 
+Empty_12-Damage: 
+Empty_12-Info:;;;
+Empty_12-LongInfo: 
+Empty_12-Dice:0
+Empty_12-Color: 
+Empty_12-Upcast:;;
 
-##Block14 - Extra Notes
+##Block14 - ExtraNotes
 Note_1:Hi I am Mol!
-Note_2:Stay Calm
-Note_3:Dren is the leader
