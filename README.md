@@ -1,20 +1,21 @@
 # DND_Master_Release
-Releases of DND Master program - Version 1.3 updated 7/11/2023
+Releases of DND Master program - Version 1.5 updated 25/11/2023
 
 1. Download, go to code and download the zip file
 2. Unzip the file anywhere you like
 3. Enter the extracted folder and unzip the libcef file. Make sure the resulting .dll file is in the same place as DND_HP.exe
-4. Only Windows Scaling 100% is supported. Change it in Desktop->Right Click->Display Settings->Scale and Layout before you run the program* (Don't know why but it sucks for me too)
-5. Run DND_HP.exe and load dnd_stat when prompted
-6. Follow the instructions on the Data-Notepad tab in DND_HP to modify my character sheet into yours
+4. Only Windows Scaling 100% is supported. Change it in Desktop->Right Click->Display Settings->Scale and Layout before you run the program* (Other Scaling may cause funky layout issues)
+5. Run DND_HP.exe and when prompted, CLICK CANCEL OR CLOSE THE PROMPT
+6. FOLLOW THE INSTRUCTIONS on the Instruction tab to start creating your character sheet
+7. Save regularly into a different file, and from then on you can load that file when launching DND_HP.exe
 
-7. For updates, you should re-download the whole thing again, just make sure you keep your version of dnd_stat.txt
-8. Starting from version 1.3, add ##RBColors-Black,Blue,Purple,White to the starting lines of dnd_stat.txt, for example, right after ##SpellAmount-
+8. For updates, you should re-download the whole thing again.
+9. There has been large update in file format from version 1.4 to 1.5, old dnd_stat.txt are not compatible and will require manual tweaks. I suggest redoing the sheet.
 
 # Big Panel Tabs OwlBear, Discord, Data-Notepad
 1. Online VTT platform owlbear is integrated. If you have a working owlbear room link in the dnd_stat.txt file, you can interact with owlbear freely. (but requires sign in every time)
-2. Discord can be launched from the program, allowing access with no need for alt-tab. This instance of discord is from your computer, and it is just launching it then placing it into the program (therefore it is safe)
-3. Data-Notepad has instructions on how to modify dnd_stat.txt. You can freely make as many copies as required and save them under any name. You can have one stat file open at a time, and can load the current opened stat file data into the program. Any changes made to the notepad can also be saved as usual (this notepad is just an instance of notepad opened from your computer, then placed into the program)
+2. Discord can be embedded into the program, allowing access with no need for alt-tab. This instance of discord is from your computer, you launch it and then place it into the program (therefore it is safe)
+3. Instructions page provides instructions on how to use the program. You can also view the current .txt file. You can freely make as many copies as required and save them under any name. You can have one stat file open at a time, and can load the current opened stat file data into the program. Any changes made to the notepad can also be saved as usual.
 4. The Colour Button allows minor customisation of the resource button colour scheme.
 
 # HP tracker
@@ -31,14 +32,15 @@ Releases of DND Master program - Version 1.3 updated 7/11/2023
 # Resource Tracking
 1. Combat and Adventuring Resources pages allows user to keep track of the resources that they have. Left click to turn blue <> black, white <> purple, Right click for white <> black
 2. Spell Slot tracker is similar, but is automated to deplete spell slots as you cast spells
-3. Gold tracker allows you to enter DnD gold values as a line of text such as 100cp 200sp 340 gp 2pp and have it recorded. You can split the gold by having the number of people to split to in the small box next to split, then click on split.
+3. Gold tracker allows you to enter DnD gold values as a line of text such as 100cp 200sp 340gp 2pp and have it recorded (no comma). You can split the gold by having the number of people to split to in the small box next to split, then click on split.
 4. Mol button is an easter egg, it splits the gold in a way such that you will lose out, but everyone else gets a little bit more.
 5. Equipment page lists the name of your stuff. You can click on the boxes to view the equipment, edit/remove as you wish. Empty slots will remain as Empty_x, and you can add/remove slots by right clicking. You can also reorder by right clicking
 
 # Attributes
-1. You DND statblocks are listed here with an extra textbox in each to allow for modification to the entire attribute
+1. You DND statblocks are listed here
 2. White boxes next to skills are normal, black is proficient and yellow is expert.
-3. You can left click/right click on the stat label such as STR, as well as skill labels such as Athletics, to change its colour to keep track of advantages/disadvantages. (these wont be saved, WIP)
+3. You can left click on the stat label such as STR, as well as skill labels such as Athletics, to change its colour to keep track of advantages/disadvantages.
+4. Major edits can be done by by right clicking an empty spot in the respective coloured box
 
 # Spell page
 1. You list of spells listed in a similar way as the Equipment page
