@@ -1,16 +1,16 @@
-##*(Insert Name) DnD
+##*Mol DnD
 ##^https://www.owlbear.rodeo/room/nGAe7THjRBX5/Staldorn%28Thursdays%29
 ##EquipmentSlot-10
-##SpellAmount-12
+##SpellsKnown-12
 ##RBColors-Black,White,Purple,Yellow
 
-##Block1 - Key Stat
+##Block1 
 Inspiration:0
 DeathSucc:0
 DeathFail:0
 Exhaustion:0
 
-##Block2 - Other Stat
+##Block2 *
 Walking Speed:35
 Flying Speed:60
 Initiative:+3
@@ -18,18 +18,18 @@ Prof. Bonus:+3
 Passive Perception:18
 Darkvision:60
 
-##Block3 - ResourcesCombat:Description,Quantity,Active,Extra,Active
+##Block3 *
 Hit Dice:5d8,5,3,8,2
 Ki Points:6/Short Rest,3,3,0,0
 1st LvL Slots:2/Long Rest,2,2,0,0
 Rush Attack:3/Short Rest,3,3,0,0
 Richochet:3/Short Rest,3,3,0,0
 
-##Block4 - ResourcesAdventuring:Description:Quantity:Active:Extra:Active
+##Block4 *
 Rations:10/Downtime,10,10,0,0
 Messenger:1/Long Rest,1,1,0,0
 
-##Block5 - Gold & HP
+##Block5 *
 Temphp:0
 AC_val:15
 AC_extra:2
@@ -40,50 +40,50 @@ sp_val:0
 gp_val:0
 pp_val:0
 
-##Block6 - 
-STR:{Score=10},{Mod=x}+0,{Color=Yellow},{Saving=*}+0,{Athletics=}+2
-DEX:{Score=17},{Mod=x}+0,{Color=Green},{Saving=*}+0,{Acrobatics=*}+0,{Sleight=}+0,{Stealth=*}+0
-CON:{Score=17},{Mod=x}+0,{Color=Red},{Saving=}+0
-INT:{Score=13},{Mod=x}+0,{Color=Blue},{Saving=}+0,{Arcana=}+0,{History=}+0,{Investigate=}+0,{Nature=}+0,{Religion=}+0,{Woodcarver=*}+0,{Smith=*}+0,{Mason=}+0
-WIS:{Score=14},{Mod=x}+3,{Color=Purple},{Saving=}+0,{Animal=}+0,{Insight=*}+0,{Medicine=*}+0,{Perception=**}+0,{Survival=}+0
-CHA:{Score=8},{Mod=x}+0,{Color=Orange},{Saving=}+0,{Deception=}+1,{Intimidation=}+0,{Performance=}+0,{Persuasion=}+1
+##Block6 *
+STR:{Score=10},{Mod=x}+0,{Color=-6987},{Saving=*}+0,{Athletics=}+2
+DEX:{Score=17},{Mod=x}+0,{Color=-6751336},{Saving=*}+0,{Acrobatics=*}+0,{Sleight=}+0,{Stealth=*}+0
+CON:{Score=17},{Mod=x}+0,{Color=-43691},{Saving=}+0
+INT:{Score=13},{Mod=x}+0,{Color=-7876885},{Saving=}+0,{Arcana=}+0,{History=}+0,{Investigate=}+0,{Nature=}+0,{Religion=}+0,{Woodcarver=*}+0,{Smith=*}+0,{Mason=}+0
+WIS:{Score=14},{Mod=x}+3,{Color=-8234539},{Saving=}+0,{Animal=}+0,{Insight=*}+0,{Medicine=*}+0,{Perception=**}+0,{Survival=}+0
+CHA:{Score=8},{Mod=x}+0,{Color=-23296},{Saving=}+0,{Deception=}+1,{Intimidation=}+0,{Performance=}+0,{Persuasion=}+1
 
-##Block7 - [Actions]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
+##Block7 *
 [Crucible Spear +2]:{One Hand,+8,1d6 + 5 Piercing,M};{Two Hand,+8,1d8 + 5 Piercing,M};{Thrown 20/60,+8,1d6 + 5 Piercing,R}|Non-Magical Spear made with Crucible and can be thrown
 [Crossbow]:{Arrow 60/320,+6,1d6 + 3 Piercing,M};{,20,17,A};{Steel Arrow,+8,1d6 + 5 Piercing,M};{,20,3,A}|Crossbow attacks
 
-##Block8 - [Bonus]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
+##Block8 
 
-##Block9 - [Reaction]:{use,to hit,damage,melee/range/none};{secondary stuff}|Description
+##Block9 
 
 ##Block10 - Features:Shortdescript|Longdescript (indicate new lines with ^)
 Proficiencies:Weapons, Armour, Tools, Languages|Weapons - Simple, Shortswords^Armour - Light, Medium, Shields^Tools - Smiths, Woodcarver, Theives, Tinker's^Languages - Common, Hrafn, Dwarvish, Jotunn (11/800)
 Messenger:Cast the Sending Spell at will 1/Long|Cast the Sending Spell at will 1/Long Rest^You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message.^^You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn't arrive.
 
-##Block11 - Equipment:Shortdescript|Longdescript|Color (indicate new lines with ^)
-Low Potion of Wrath:RAGE for 1 Min|100 gp, Gain the effects of Rage for 1 min. Resistance to all physical damage and +2 to melee weapon attacks. Bonus action to use, or action to feed.|Red
-Empty_2:||Gray
-Empty_3:||Gray
-Empty_4:||Gray
-Empty_5:||Gray
-Empty_6:||Gray
-Empty_7:||Gray
-Empty_8:||Gray
-Empty_9:||Gray
-Empty_10:||Gray
+##Block11 *
+Low Potion of Wrath:RAGE for 1 Min|100 gp, Gain the effects of Rage for 1 min. Resistance to all physical damage and +2 to melee weapon attacks. Bonus action to use, or action to feed.|-32704
+Empty_2:||-8355712
+Empty_3:||-8355712
+Empty_4:||-8355712
+Empty_5:||-8355712
+Empty_6:||-8355712
+Empty_7:||-8355712
+Empty_8:||-8355712
+Empty_9:||-8355712
+Empty_10:||-8355712
 
-##Block12 - SpellSlots
+##Block12 *
 1st Level:,2,2,0,0
 2nd Level:,1,1,0,0
 
-##Block13 - 
+##Block13 * 
 FireBolt:Cantrip
 FireBolt-Land:To Hit d20+8
 FireBolt-Damage:2d10^(+4 Acid)
 FireBolt-Info:Action;V,S;Instant;1 Target 120ft
 FireBolt-LongInfo:5th Level Evocation Cantrip^You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.^^At Higher Levels. This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 FireBolt-Dice:10
-FireBolt-Color:Orange
+FireBolt-Color:-159159
 FireBolt-Upcast:;;
 Chromatic Orb:1st Level
 Chromatic Orb-Land:To Hit d20+8
@@ -91,7 +91,7 @@ Chromatic Orb-Damage:3d8^(+4 Acid)
 Chromatic Orb-Info:Action;V,S,M;Instant;1 Target 90ft
 Chromatic Orb-LongInfo:1st Level Evocation Spell^You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose.^^At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 Chromatic Orb-Dice:8
-Chromatic Orb-Color:Green
+Chromatic Orb-Color:-12457592
 Chromatic Orb-Upcast:1;1;1
 Arcane Weapon:1st Level
 Arcane Weapon-Land:Weapon Attacks
@@ -99,7 +99,7 @@ Arcane Weapon-Damage:Extra 1d6^Elemental
 Arcane Weapon-Info:Bonus Action;V,S;Concentration 1 Hour;Self
 Arcane Weapon-LongInfo:1st-Level Transmutation^You channel arcane energy into one simple or martial weapon you’re holding, and choose one damage type- acid, cold, fire, lightning, poison, or thunder. Until the spell ends, you deal an extra 1d6 damage of the chosen type to any target you hit with the weapon. If the weapon isn’t magical, it becomes a magic weapon for the spell’s duration.^^As a bonus action, you can change the damage type, choosing from the options above.^^At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can maintain your concentration on the spell for up to 8 hours.
 Arcane Weapon-Dice:6
-Arcane Weapon-Color:Purple
+Arcane Weapon-Color:-6875976
 Arcane Weapon-Upcast:0;1;1
 Empty_4: 
 Empty_4-Land: 
@@ -114,8 +114,8 @@ Empty_5-Land:
 Empty_5-Damage: 
 Empty_5-Info:;;;
 Empty_5-LongInfo: 
-Empty_5-Dice:0
-Empty_5-Color: 
+Empty_5-Dice:100
+Empty_5-Color:-8355712
 Empty_5-Upcast:;;
 Empty_6: 
 Empty_6-Land: 
@@ -174,5 +174,5 @@ Empty_12-Dice:0
 Empty_12-Color: 
 Empty_12-Upcast:;;
 
-##Block14 - ExtraNotes
+##Block14 *
 Note_1:Hi I am Mol!
