@@ -1,5 +1,5 @@
 # DND_Master_Release
-Releases of DND Master program - Version 1.5 updated 25/11/2023
+Releases of DND Master program - Version 2.0 updated 30/11/2023
 
 1. Download, go to code and download the zip file
 2. Unzip the file anywhere you like
@@ -44,7 +44,7 @@ Releases of DND Master program - Version 1.5 updated 25/11/2023
 
 # Spell page
 1. You list of spells listed in a similar way as the Equipment page
-2. Clicking on one brings up the spellcard, which you can edit/remove, or cast
+2. You can right click on a slot to bring up the spell library (currently up to lvl 3 spells). Clicking on one brings up the spellcard, which you can edit/remove, or cast
 3. Empty slots will remain as Empty_x, and you can add/remove slots by right clicking. You can also reorder by right clicking
 4. Casting automatically consumes the spell slot of the level you are casting in
 5. You can also upcast the spell and the corresponding spell slot will be consumed

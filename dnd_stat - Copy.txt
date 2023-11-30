@@ -65,14 +65,14 @@ Empty_10:||-8355712
 ##Block12 
 
 ##Block13 
-Empty_1: 
-Empty_1-Land: 
-Empty_1-Damage: 
-Empty_1-Info:;;;
-Empty_1-LongInfo: 
-Empty_1-Dice:0
-Empty_1-Color: 
-Empty_1-Upcast:;;
+Absorb Elements:1st Level
+Absorb Elements-Land:Defense
+Absorb Elements-Damage:Resistance Then^1d6 Elemental
+Absorb Elements-Info:Reaction;S;1 Round;Self
+Absorb Elements-LongInfo:1st-level abjuration^^The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.^^At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
+Absorb Elements-Dice:6
+Absorb Elements-Color:-32768
+Absorb Elements-Upcast:1;1;1
 Empty_2: 
 Empty_2-Land: 
 Empty_2-Damage: 

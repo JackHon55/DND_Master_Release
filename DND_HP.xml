@@ -22,6 +22,315 @@ DND_HP
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:DND_HP.My.Resources.Resources._1stspell_lib">
+<summary>
+  Looks up a localized string similar to Absorb Elements:1st Level
+Absorb Elements-Land:Defense
+Absorb Elements-Damage:Resistance Then^1d6 Elemental
+Absorb Elements-Info:Reaction;S;1 Round;Self
+Absorb Elements-LongInfo:1st-level abjuration^^The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._1stspella">
+<summary>
+  Looks up a localized string similar to Absorb Elements
+Alarm
+Animal Friendship
+Armor of Agathys
+Arms of Hadar
+Bane
+Beast Bond
+Bless
+Burning Hands
+Catapult
+Cause Fear
+Ceremony
+Chaos Bolt
+Charm Person
+Chromatic Orb
+Colour Spray
+Command
+Compelled Duel
+Comprehend Languages
+Create or Destroy Water
+Cure Wounds
+Detect Evil and Good
+Detect Magic
+Detect Poison and Disease
+Disguise Self
+Dissonant Whispers
+Distort Value
+Divine Favor
+Earth Tremor
+Ensnaring Strike
+Entangle
+Expeditious Retreat
+Faerie Fire
+False Life
+Feather F [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._1stspellh">
+<summary>
+  Looks up a localized string similar to Hail of Thorns
+Healing Word
+Hellish Rebuke
+Heroism
+Hex
+Hunter&apos;s Mark
+Ice Knife
+Identify
+Illusory Script
+Inflict Wounds
+Jim&apos;s Magic Missile
+Jump
+Longstrider
+Mage Armor
+Magic Missile
+Magnify Gravity
+Protection from Evil and Good
+Purify Food and Drink
+Ray of Sickness
+Sanctuary
+Searing Smite
+Shield
+Shield of Faith
+Silent Image
+Silvery Barbs
+Sleep
+Snare
+Speak with Animals
+Tasha&apos;s Caustic Brew
+Tasha&apos;s Hideous Laughter
+Tenser&apos;s Floating Disk
+Thunderous Smite
+Thunderwave
+Unseen Serv [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._2ndspell_lib">
+<summary>
+  Looks up a localized string similar to Aganazzar&apos;s Scorcher:2nd Level
+Aganazzar&apos;s Scorcher-Land:DEX save DC??
+Aganazzar&apos;s Scorcher-Damage:3d8 Fire / Half
+Aganazzar&apos;s Scorcher-Info:Action;V,S,M;Instant;30ft in a line 5ft wide and 30ft long
+Aganazzar&apos;s Scorcher-LongInfo:2nd-level evocation (a red dragon’s scale)^^A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._2ndspella">
+<summary>
+  Looks up a localized string similar to Aganazzar&apos;s Scorcher
+Aid
+Air Bubble
+Alter Self
+Animal Messenger
+Arcane Lock
+Augury
+Barkskin
+Beast Sense
+Blindness/Deafness
+Blur
+Borrowed Knowledge
+Branding Smite
+Calm Emotions
+Cloud of Daggers
+Continual Flame
+Cordon of Arrows
+Crown of Madness
+Darkness
+Darkvision
+Detect Thoughts
+Dragon&apos;s Breath
+Dust Devil
+Earthbind
+Enhance Ability
+Enlarge/Reduce
+Enthrall
+Find Steed
+Find Traps
+Flame Blade
+Flaming Sphere
+Flock of Familiars
+Fortune&apos;s Favor
+Gentle Repose
+Gift of Gab
+Gust of Win [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._2ndspellh">
+<summary>
+  Looks up a localized string similar to Magic Mouth
+Magic Weapon
+Maximillian&apos;s Earthen Grasp
+Melf&apos;s Acid Arrow
+Mind Spike
+Mirror Image
+Misty Step
+Moonbeam
+Nathair&apos;s Mischief
+Nystul&apos;s Magic Aura
+Pass Without Trace
+Phantasmal Force
+Prayer of Healing
+Protection from Poison
+Pyrotechnics
+Ray of Enfeeblement
+Rime&apos;s Binding Ice
+Rope Trick
+Scorching Ray
+See Invisibility
+Shadow Blade
+Shatter
+Silence
+Skywrite
+Snilloc&apos;s Snowball Storm
+Spider Climb
+Spike Growth
+Spiritual Weapon
+Spray Of Cards
+Suggestion
+Summon Beast
+Tasha&apos;s Min [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._3rdspell_lib">
+<summary>
+  Looks up a localized string similar to Animate Dead:3rd Level
+Animate Dead-Land:Utility
+Animate Dead-Damage:1+ Undead Servant
+Animate Dead-Info:1 Minute;V,S,M;Instant;10 feet 1 Corpse
+Animate Dead-LongInfo:3rd-level necromancy (a drop of blood, a piece of flesh, and a pinch of bone dust)^^This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a skeleton if you chose bones [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._3rdspella">
+<summary>
+  Looks up a localized string similar to Animate Dead
+Antagonize
+Ashardalon&apos;s Stride
+Aura of Vitality
+Beacon of Hope
+Bestow Curse
+Blinding Smite
+Blink
+Call Lightning
+Catnap
+Clairvoyance
+Conjure Animals
+Conjure Barrage
+Counterspell
+Create Food and Water
+Crusader&apos;s Mantle
+Daylight
+Dispel Magic
+Elemental Weapon
+Enemies Abound
+Erupting Earth
+Fast Friends
+Fear
+Feign Death
+Fireball
+Flame Arrows
+Fly
+Galder&apos;s Tower
+Gaseous Form
+Glyph of Warding
+Haste
+Hunger Of Hadar
+Hypnotic Pattern
+Incite Greed
+Intellect Fortress.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._3rdspellh">
+<summary>
+  Looks up a localized string similar to Leomund&apos;s Tiny Hut
+Life Transference
+Lightning Arrow
+Lightning Bolt
+Magic Circle
+Major Image
+Mass Healing Word
+Meld into Stone
+Melf&apos;s Minute Meteors
+Motivational Speech
+Nondetection
+Phantom Steed
+Plant Growth
+Protection from Energy
+Pulse Wave
+Remove Curse
+Revivify
+Sending
+Sleet Storm
+Slow
+Speak with Dead
+Speak with Plants
+Spirit Guardians
+Spirit Shroud
+Stinking Cloud
+Summon Fey
+Summon Lesser Demons
+Summon Shadowspawn
+Summon Undead
+Thunder Step
+Tidal Wave
+Tiny Servant
+Tongues
+ [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.cantrips">
+<summary>
+  Looks up a localized string similar to Acid Splash
+Blade Ward
+Booming Blade
+Chill Touch
+Control Flames
+Create Bonfire
+Dancing Lights
+Druidcraft
+Eldritch Blast
+Encode Thoughts
+Fire Bolt
+Friends
+Frostbite
+Green Flame Blade
+Guidance
+Gust
+Infestation
+Light
+Lightning Lure
+Mage Hand
+Magic Stone
+Mending
+Message
+Mind Sliver
+Minor Illusion
+Mold Earth
+Poison Spray
+Prestidigitation
+Primal Savagery
+Produce Flame
+Ray of Frost
+Resistance
+Sacred Flame
+Sapping Sting
+Shape Water
+Shillelagh
+Shocking Grasp
+Spare the Dying
+Swor [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.cantrips_lib">
+<summary>
+  Looks up a localized string similar to Fire Bolt:Cantrip
+Fire Bolt-Land:To Hit d20+8
+Fire Bolt-Damage:2d10^(+4 Acid)
+Fire Bolt-Info:Action;V,S;Instant;1 Target 120ft
+Fire Bolt-LongInfo:5th Level Evocation Cantrip^You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.^^At Higher Levels. This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level [rest of string was truncated]&quot;;.
+</summary>
+</member>
 <member name="P:DND_HP.My.Resources.Resources.Dices">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
