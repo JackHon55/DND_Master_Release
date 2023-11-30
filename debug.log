@@ -63,3 +63,12 @@ ERROR: Failed parsing Certificate
 [1115/233858.001:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
 [1125/140925.281:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
 [1125/143651.770:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1130/153916.194:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1130/153955.645:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1130/154006.700:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1130/154008.135:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[1130/154025.866:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.855ba448.js (13)
+[1130/154025.866:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.79c7d7c6.js (2)
