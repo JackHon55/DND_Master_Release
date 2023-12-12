@@ -90,14 +90,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DND_HP.exe" size="808448">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DND_HP.exe" size="1199616">
       <assemblyIdentity name="DND_HP" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uzlnMYb58EUptlKXPbFl2D0T7jF3nYjyeaLvJzVJjLo=</dsig:DigestValue>
+        <dsig:DigestValue>4LyX9NkeKhhLROcMVWWmasjddU6BUbnxyjnN5YTDLBQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -173,13 +173,13 @@
       <dsig:DigestValue>c1PyXcXPhNCYlOPgRhzvDlZ5mtvGF/zjdiDKZyQLVH0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DND_HP.exe.config" size="1537">
+  <file name="DND_HP.exe.config" size="1510">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>vUxUrXKHXSXvSai3LgO+zVZPQvxAPXKp1Itb3noGv10=</dsig:DigestValue>
+      <dsig:DigestValue>xts0S0JPAeDa9pl9qqQNtmw0ll8haHMrmtcd8yMasbU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="icudtl.dat" size="10717392">

@@ -279,6 +279,615 @@ Tongues
  [rest of string was truncated]&quot;;.
 </summary>
 </member>
+<member name="P:DND_HP.My.Resources.Resources._4thspell_lib">
+<summary>
+  Looks up a localized string similar to Arcane Eye:4th Level
+Arcane Eye-Land:Utility
+Arcane Eye-Damage:Eye that sees
+Arcane Eye-Info:Action;V,S,M;Conc. 1 Hour;30ft with 30ft darkvision
+Arcane Eye-LongInfo:4th-level divination (a bit of bat fur)^^You create an invisible, magical eye within range that hovers in the air for the duration. You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.^^As an action, you can move the eye up to 30 feet in any directio [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._4thspella">
+<summary>
+  Looks up a localized string similar to Arcane Eye
+Aura of Life
+Aura of Purity
+Banishment
+Blight
+Charm Monster
+Compulsion
+Confusion
+Conjure Minor Elementals
+Conjure Woodland Beings
+Control Water
+Death Ward
+Dimension Door
+Divination
+Dominate Beast
+Elemental Bane
+Evard&apos;s Black Tentacles
+Fabricate
+Find Greater Steed
+Fire Shield
+Freedom of Movement
+Galder&apos;s Speedy Courier
+Gate Seal
+Giant Insect
+Grasping Vine
+Gravity Sinkhole
+Greater Invisibility
+Guardian of Faith
+Guardian of Nature
+Hallucinatory Terrain
+Ice Storm
+Leomun [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._5thspell_lib">
+<summary>
+  Looks up a localized string similar to Animate Objects:5th Level
+Animate Objects-Land:Summoning
+Animate Objects-Damage:Inanimate object abuse
+Animate Objects-Info:Action;V,S;Conc. 1 Minute;120ft 10+ nonmagical objects
+Animate Objects-LongInfo:5th-level transmutation^^Search this up yourself
+Animate Objects-Dice:100
+Animate Objects-Color:-32768
+Animate Objects-Upcast:0;5;1
+Antilife Shell:5th Level
+Antilife Shell-Land:Defense
+Antilife Shell-Damage:Prevents reaching you
+Antilife Shell-Info:Action;V,S;Conc. 1 Hour;Self 10ft radius
+Antili [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._5thspella">
+<summary>
+  Looks up a localized string similar to Animate Objects
+Antilife Shell
+Awaken
+Banishing Smite
+Bigby&apos;s Hand
+Circle of Power
+Cloudkill
+Commune
+Commune with Nature
+Cone of Cold
+Conjure Elemental
+Conjure Volley
+Contact Other Plane
+Contagion
+Control Winds
+Create Spelljamming Helm
+Creation
+Danse Macabre
+Dawn
+Destructive Wave
+Dispel Evil and Good
+Dominate Person
+Dream
+Enervation
+Far Step
+Flame Strike
+Geas
+Greater Restoration.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._5thspellh">
+<summary>
+  Looks up a localized string similar to Hallow
+Hold Monster
+Holy Weapon
+Immolation
+Infernal Calling
+Insect Plague
+Legend Lore
+Maelstrom
+Mass Cure Wounds
+Mislead
+Modify Memory
+Negative Energy Flood
+Passwall
+Planar Binding
+Raise Dead
+Rary&apos;s Telepathic Bond
+Reincarnate
+Scrying
+Seeming
+Skill Empowerment
+Steel Wind Strike
+Summon Celestial
+Summon Draconic Spirit
+Swift Quiver
+Synaptic Static
+Telekinesis
+Teleportation Circle
+Temporal Shunt
+Transmute Rock
+Tree Stride
+Wall of Force
+Wall of Light
+Wall of Stone
+Wrath Of Natur [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._6thspell_lib">
+<summary>
+  Looks up a localized string similar to Arcane Gate:6th Level
+Arcane Gate-Land:Teleportation
+Arcane Gate-Damage:Portal
+Arcane Gate-Info:Action;V,S;Conc. 10 Minutes;500ft Portals
+Arcane Gate-LongInfo:6th-level conjuration^^You create linked teleportation portals that remain open for the duration. Choose two points on the ground that you can see, one point within 10 feet of you and one point within 500 feet of you. A circular portal, 10 feet in diameter, opens over each point. If the portal would open in the space occupied by a creature, the sp [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._6thspella">
+<summary>
+  Looks up a localized string similar to Arcane Gate
+Blade Barrier
+Bones of the Earth
+Chain Lightning
+Circle of Death
+Conjure Fey
+Contingency
+Create Homunculus
+Create Undead
+Disintegrate
+Drawmij&apos;s Instant Summons
+Druid Grove
+Eyebite
+Find the Path
+Fizban&apos;s Platinum Shield
+Flesh to Stone
+Forbiddance
+Globe of Invulnerability
+Gravity Fissure
+Guards and Wards
+Harm
+Heal
+Heroes&apos; Feast
+Investiture of Flame
+Investiture of Ice
+Investiture of Stone
+Investiture of Wind
+Magic Jar
+Mass Suggestion
+Mental Prison
+Move Earth
+Otiluke&apos;s [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._7thspell_lib">
+<summary>
+  Looks up a localized string similar to Conjure Celestial:7th Level
+Conjure Celestial-Land:Summoning
+Conjure Celestial-Damage:Celestial &lt; CR4+ Abuse
+Conjure Celestial-Info:1 Minute;V,S;Conc. 1 Hour;90ft
+Conjure Celestial-LongInfo:7th-level conjuration^^You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.^^The celestial is friendly to you and your companions for the duration. Roll initiative for t [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._7thspella">
+<summary>
+  Looks up a localized string similar to Conjure Celestial
+Create Magen
+Crown of Stars
+Delayed Blast Fireball
+Divine Word
+Draconic Transformation
+Dream of the Blue Veil
+Etherealness
+Finger of Death
+Fire Storm
+Forcecage
+Mirage Arcane
+Mordenkainen&apos;s Magnificent Mansion
+Mordenkainen&apos;s Sword
+Plane Shift
+Power Word Pain
+Prismatic Spray
+Project Image
+Regenerate
+Resurrection
+Reverse Gravity
+Sequester
+Simulacrum
+Symbol
+Teleport
+Temple of the Gods
+Tether Essence
+Whirlwind.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._8thspell_lib">
+<summary>
+  Looks up a localized string similar to Abi Dalzim&apos;s Horrid Wilting:8th Level
+Abi Dalzim&apos;s Horrid Wilting-Land:CON save DC??
+Abi Dalzim&apos;s Horrid Wilting-Damage:10d8 Necrotic
+Abi Dalzim&apos;s Horrid Wilting-Info:Action;V,S,M;Instant;150ft range 30ft cube
+Abi Dalzim&apos;s Horrid Wilting-LongInfo:8th-level necromancy (a bit of sponge)^^You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._8thspella">
+<summary>
+  Looks up a localized string similar to Abi Dalzim&apos;s Horrid Wilting
+Animal Shapes
+Antimagic Field
+Antipathy/Sympathy
+Clone
+Control Weather
+Dark Star
+Demiplane
+Dominate Monster
+Earthquake
+Feeblemind
+Glibness
+Holy Aura
+Illusory Dragon
+Incendiary Cloud
+Maddening Darkness
+Maze
+Mighty Fortress
+Mind Blank
+Power Word Stun
+Reality Break
+Sunburst
+Telepathy
+Tsunami.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._9thspell_lib">
+<summary>
+  Looks up a localized string similar to Astral Projection:9th Level
+Astral Projection-Land:Utility
+Astral Projection-Damage:Go into astral plane
+Astral Projection-Info:1 Hour;V,S,M;Special;10ft range 8 Targets
+Astral Projection-LongInfo:9th-level necromancy (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)^^You and up to eight willing creatures within range project your astral bodies into the Astral P [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources._9thspella">
+<summary>
+  Looks up a localized string similar to Astral Projection
+Blade of Disaster
+Foresight
+Gate
+Imprisonment
+Invulnerability
+Mass Heal
+Mass Polymorph
+Meteor Swarm
+Power Word Heal
+Power Word Kill
+Prismatic Wall
+Psychic Scream
+Ravenous Void
+Shapechange
+Storm of Vengeance
+Time Ravage
+Time Stop
+True Polymorph
+True Resurrection
+Weird
+Wish.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.artificer_1st">
+<summary>
+  Looks up a localized string similar to Absorb Elements
+Alarm
+Catapult
+Cure Wounds
+Detect Magic
+Disguise Self
+Expeditious Retreat
+Faerie Fire
+False Life
+Feather Fall
+Grease
+Identify
+Jump
+Longstrider
+Purify Food and Drink
+Sanctuary
+Snare
+Tasha&apos;s Caustic Brew.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.artificer_2nd">
+<summary>
+  Looks up a localized string similar to Aid
+Air Bubble
+Alter Self
+Arcane Lock
+Blur
+Continual Flame
+Darkvision
+Enhance Ability
+Enlarge/Reduce
+Heat Metal
+Invisibility
+Kinetic Jaunt
+Lesser Restoration
+Levitate
+Magic Mouth
+Magic Weapon
+Protection from Poison
+Pyrotechnics
+Rope Trick
+See Invisibility
+Skywrite
+Spider Climb
+Vortex Warp
+Web.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.artificer_3rd">
+<summary>
+  Looks up a localized string similar to Ashardalon&apos;s Stride
+Blink
+Catnap
+Create Food and Water
+Dispel Magic
+Elemental Weapon
+Flame Arrows
+Fly
+Glyph of Warding
+Haste
+Intellect Fortress
+Protection from Energy
+Revivify
+Tiny Servant
+Water Breathing
+Water Walk.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.artificer_4th">
+<summary>
+  Looks up a localized string similar to Arcane Eye
+Elemental Bane
+Fabricate
+Freedom of Movement
+Leomund&apos;s Secret Chest
+Mordenkainen&apos;s Faithful Hound
+Mordenkainen&apos;s Private Sanctum
+Otiluke&apos;s Resilient Sphere
+Stone Shape
+Stoneskin
+Summon Construct.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.artificer_5th">
+<summary>
+  Looks up a localized string similar to Animate Objects
+Bigby&apos;s Hand
+Create Spelljamming Helm
+Creation
+Greater Restoration
+Skill Empowerment
+Transmute Rock
+Wall of Stone.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.artificer_cantrip">
+<summary>
+  Looks up a localized string similar to Acid Splash
+Booming Blade
+Create Bonfire
+Dancing Lights
+Fire Bolt
+Frostbite
+Green-Flame Blade
+Guidance
+Light
+Lightning Lure
+Mage Hand
+Magic Stone
+Mending
+Message
+Poison Spray
+Prestidigitation
+Ray of Frost
+Resistance
+Shocking Grasp
+Spare the Dying
+Sword Burst
+Thorn Whip
+Thunderclap
+Acid Splash
+Booming Blade
+Create Bonfire
+Dancing Lights
+Fire Bolt
+Frostbite
+Green-Flame Blade
+Guidance
+Light
+Lightning Lure
+Mage Hand
+Magic Stone
+Mending
+Message
+Poison Spray
+Prestidigitation
+ [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.bard_1st">
+<summary>
+  Looks up a localized string similar to Animal Friendship
+Bane
+Charm Person
+Colour Spray
+Command
+Comprehend Languages
+Cure Wounds
+Detect Magic
+Disguise Self
+Dissonant Whispers
+Distort Value
+Earth Tremor
+Faerie Fire
+Feather Fall
+Healing Word
+Heroism
+Identify
+Illusory Script
+Longstrider
+Silent Image
+Silvery Barbs
+Sleep
+Speak with Animals
+Tasha&apos;s Hideous Laughter
+Thunderwave
+Unseen Servant.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.bard_2nd">
+<summary>
+  Looks up a localized string similar to Aid
+Animal Messenger
+Blindness/Deafness
+Borrowed Knowledge
+Calm Emotions
+Cloud of Daggers
+Crown of Madness
+Detect Thoughts
+Enhance Ability
+Enlarge/Reduce
+Enthrall
+Gift of Gab
+Heat Metal
+Hold Person
+Invisibility
+Kinetic Jaunt
+Knock
+Lesser Restoration
+Locate Animals or Plants
+Locate Object
+Magic Mouth
+Mirror Image
+Nathair&apos;s Mischief
+Phantasmal Force
+Pyrotechnics
+See Invisibility
+Shatter
+Silence
+Skywrite
+Spray Of Cards
+Suggestion
+Warding Wind
+Zone of Truth.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.bard_3rd">
+<summary>
+  Looks up a localized string similar to Dispel Magic
+Enemies Abound
+Fast Friends
+Fear
+Feign Death
+Glyph of Warding
+Hypnotic Pattern
+Intellect Fortress
+Leomund&apos;s Tiny Hut
+Major Image
+Mass Healing Word
+Motivational Speech
+Nondetection
+Plant Growth
+Sending
+Slow
+Speak with Dead
+Speak with Plants
+Stinking Cloud
+Tongues.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.bard_4th">
+<summary>
+  Looks up a localized string similar to Freedom of Movement
+Greater Invisibility
+Hallucinatory Terrain
+Locate Creature
+Phantasmal Killer
+Polymorph
+Raulothim&apos;s Psychic Lance.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.bard_5th">
+<summary>
+  Looks up a localized string similar to Geas
+Greater Restoration
+Hold Monster
+Legend Lore
+Mass Cure Wounds
+Mislead
+Modify Memory
+Planar Binding
+Raise Dead
+Rary&apos;s Telepathic Bond
+Scrying
+Seeming
+Skill Empowerment
+Synaptic Static
+Teleportation Circle.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.bard_6th">
+<summary>
+  Looks up a localized string similar to Mass Suggestion
+Otto&apos;s Irresistible Dance
+Programmed Illusion
+True Seeing.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.bard_7th">
+<summary>
+  Looks up a localized string similar to Mordenkainen&apos;s Magnificent Mansion
+Mordenkainen&apos;s Sword
+Prismatic Spray
+Project Image
+Regenerate
+Resurrection
+Symbol
+Teleport.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.bard_8th">
+<summary>
+  Looks up a localized string similar to Antipathy/Sympathy
+Dominate Monster
+Feeblemind
+Glibness
+Mind Blank
+Power Word Stun.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.bard_9th">
+<summary>
+  Looks up a localized string similar to Foresight
+Mass Polymorph
+Power Word Heal
+Power Word Kill
+Prismatic Wall
+Psychic Scream
+True Polymorph.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.bard_cantrips">
+<summary>
+  Looks up a localized string similar to Blade Ward
+Dancing Lights
+Friends
+Light
+Mage Hand
+Mending
+Message
+Minor Illusion
+Prestidigitation
+Thunderclap
+True Strike
+Vicious Mockery.
+</summary>
+</member>
 <member name="P:DND_HP.My.Resources.Resources.cantrips">
 <summary>
   Looks up a localized string similar to Acid Splash
@@ -331,9 +940,1424 @@ Fire Bolt-Info:Action;V,S;Instant;1 Target 120ft
 Fire Bolt-LongInfo:5th Level Evocation Cantrip^You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.^^At Higher Levels. This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level [rest of string was truncated]&quot;;.
 </summary>
 </member>
+<member name="P:DND_HP.My.Resources.Resources.cleric_1st">
+<summary>
+  Looks up a localized string similar to Bane
+Bless
+Ceremony
+Command
+Create or Destroy Water
+Cure Wounds
+Detect Evil and Good
+Detect Magic
+Detect Poison and Disease
+Guiding Bolt
+Healing Word
+Inflict Wounds
+Protection from Evil and Good
+Purify Food and Drink
+Sanctuary
+Shield of Faith.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.cleric_2nd">
+<summary>
+  Looks up a localized string similar to Aid
+Augury
+Blindness/Deafness
+Borrowed Knowledge
+Calm Emotions
+Continual Flame
+Enhance Ability
+Find Traps
+Gentle Repose
+Hold Person
+Lesser Restoration
+Locate Object
+Prayer of Healing
+Protection from Poison
+Silence
+Spiritual Weapon
+Warding Bond
+Zone of Truth.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.cleric_3rd">
+<summary>
+  Looks up a localized string similar to Animate Dead
+Aura of Vitality
+Beacon of Hope
+Bestow Curse
+Clairvoyance
+Create Food and Water
+Daylight
+Dispel Magic
+Fast Friends
+Feign Death
+Glyph of Warding
+Incite Greed
+Life Transference
+Magic Circle
+Mass Healing Word
+Meld into Stone
+Motivational Speech
+Protection from Energy
+Remove Curse
+Revivify
+Sending
+Speak with Dead
+Spirit Guardians
+Spirit Shroud
+Tongues
+Water Walk.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.cleric_4th">
+<summary>
+  Looks up a localized string similar to Aura of Life
+Aura of Purity
+Banishment
+Control Water
+Death Ward
+Divination
+Freedom of Movement
+Guardian of Faith
+Locate Creature
+Stone Shape.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.cleric_5th">
+<summary>
+  Looks up a localized string similar to Commune
+Contagion
+Dawn
+Dispel Evil and Good
+Flame Strike
+Geas
+Greater Restoration
+Hallow
+Holy Weapon
+Insect Plague
+Legend Lore
+Mass Cure Wounds
+Planar Binding
+Raise Dead
+Scrying
+Summon Celestial.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.cleric_6th">
+<summary>
+  Looks up a localized string similar to Blade Barrier
+Create Undead
+Find the Path
+Forbiddance
+Harm
+Heal
+Heroes&apos; Feast
+Planar Ally
+Sunbeam
+True Seeing
+Word of Recall.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.cleric_7th">
+<summary>
+  Looks up a localized string similar to Conjure Celestial
+Divine Word
+Etherealness
+Fire Storm
+Plane Shift
+Regenerate
+Resurrection
+Symbol
+Temple of the Gods.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.cleric_8th">
+<summary>
+  Looks up a localized string similar to Antimagic Field
+Control Weather
+Earthquake
+Holy Aura
+Sunburst.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.cleric_9th">
+<summary>
+  Looks up a localized string similar to Astral Projection
+Gate
+Mass Heal
+Power Word Heal
+True Resurrection.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.cleric_cantrip">
+<summary>
+  Looks up a localized string similar to Guidance
+Light
+Mending
+Resistance
+Sacred Flame
+Spare the Dying
+Thaumaturgy
+Toll the Dead
+Word of Radiance.
+</summary>
+</member>
 <member name="P:DND_HP.My.Resources.Resources.Dices">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.druid_1st">
+<summary>
+  Looks up a localized string similar to Absorb Elements
+Animal Friendship
+Beast Bond
+Charm Person
+Create or Destroy Water
+Cure Wounds
+Detect Magic
+Detect Poison and Disease
+Earth Tremor
+Entangle
+Faerie Fire
+Fog Cloud
+Goodberry
+Healing Word
+Ice Knife
+Jump
+Longstrider
+Protection from Evil and Good
+Purify Food and Drink
+Snare
+Speak with Animals
+Thunderwave.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.druid_2nd">
+<summary>
+  Looks up a localized string similar to Air Bubble
+Animal Messenger
+Augury
+Barkskin
+Beast Sense
+Continual Flame
+Darkvision
+Dust Devil
+Earthbind
+Enhance Ability
+Enlarge/Reduce
+Find Traps
+Flame Blade
+Flaming Sphere
+Gust of Wind
+Healing Spirit
+Heat Metal
+Hold Person
+Lesser Restoration
+Locate Animals or Plants
+Locate Object
+Moonbeam
+Pass Without Trace
+Protection from Poison
+Skywrite
+Spike Growth
+Summon Beast
+Warding Wind
+Wither and Bloom.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.druid_3rd">
+<summary>
+  Looks up a localized string similar to Aura of Vitality
+Call Lightning
+Conjure Animals
+Daylight
+Dispel Magic
+Elemental Weapon
+Erupting Earth
+Feign Death
+Flame Arrows
+Meld into Stone
+Plant Growth
+Protection from Energy
+Revivify
+Sleet Storm
+Speak with Plants
+Summon Fey
+Tidal Wave
+Wall of Water
+Water Breathing
+Water Walk
+Wind Wall.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.druid_4th">
+<summary>
+  Looks up a localized string similar to Blight
+Charm Monster
+Confusion
+Conjure Minor Elementals
+Conjure Woodland Beings
+Control Water
+Divination
+Dominate Beast
+Elemental Bane
+Fire Shield
+Freedom of Movement
+Giant Insect
+Grasping Vine
+Guardian of Nature
+Hallucinatory Terrain
+Ice Storm
+Locate Creature
+Polymorph
+Stone Shape
+Stoneskin
+Summon Elemental
+Wall of Fire
+Watery Sphere.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.druid_5th">
+<summary>
+  Looks up a localized string similar to Antilife Shell
+Awaken
+Commune with Nature
+Cone of Cold
+Conjure Elemental
+Contagion
+Control Winds
+Geas
+Greater Restoration
+Insect Plague
+Maelstrom
+Mass Cure Wounds
+Planar Binding
+Reincarnate
+Scrying
+Summon Draconic Spirit
+Transmute Rock
+Tree Stride
+Wall of Stone
+Wrath Of Nature
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.druid_6th">
+<summary>
+  Looks up a localized string similar to Bones of the Earth
+Conjure Fey
+Druid Grove
+Find the Path
+Flesh to Stone
+Heal
+Heroes&apos; Feast
+Investiture of Flame
+Investiture of Ice
+Investiture of Stone
+Investiture of Wind
+Move Earth
+Primordial Ward
+Sunbeam
+Transport via Plants
+Wall of Thorns
+Wind Walk.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.druid_7th">
+<summary>
+  Looks up a localized string similar to Draconic Transformation
+Fire Storm
+Mirage Arcane
+Plane Shift
+Regenerate
+Reverse Gravity
+Symbol
+Whirlwind
+
+
+
+
+
+
+
+
+
+
+
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.druid_8th">
+<summary>
+  Looks up a localized string similar to Animal Shapes
+Antipathy/Sympathy
+Control Weather
+Earthquake
+Feeblemind
+Incendiary Cloud
+Sunburst
+Tsunami
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.druid_9th">
+<summary>
+  Looks up a localized string similar to Foresight
+Shapechange
+Storm of Vengeance
+True Resurrection
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.druid_cantrip">
+<summary>
+  Looks up a localized string similar to Control Flames
+Create Bonfire
+Druidcraft
+Frostbite
+Guidance
+Gust
+Infestation
+Magic Stone
+Mending
+Mold Earth
+Poison Spray
+Primal Savagery
+Produce Flame
+Resistance
+Shape Water
+Shillelagh
+Thorn Whip
+Thunderclap.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.paladin_1st">
+<summary>
+  Looks up a localized string similar to Bless
+Ceremony
+Command
+Compelled Duel
+Cure Wounds
+Detect Evil and Good
+Detect Magic
+Detect Poison and Disease
+Divine Favor
+Heroism
+Protection from Evil and Good
+Purify Food and Drink
+Searing Smite
+Shield of Faith
+Thunderous Smite
+Wrathful Smite.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.paladin_2nd">
+<summary>
+  Looks up a localized string similar to Aid
+Branding Smite
+Find Steed
+Gentle Repose
+Lesser Restoration
+Locate Object
+Magic Weapon
+Prayer of Healing
+Protection from Poison
+Warding Bond
+Zone of Truth.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.paladin_3rd">
+<summary>
+  Looks up a localized string similar to Aura of Vitality
+Blinding Smite
+Create Food and Water
+Crusader&apos;s Mantle
+Daylight
+Dispel Magic
+Elemental Weapon
+Magic Circle
+Remove Curse
+Revivify
+Spirit Shroud.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.paladin_4th">
+<summary>
+  Looks up a localized string similar to Aura of Life
+Aura of Purity
+Banishment
+Death Ward
+Find Greater Steed
+Locate Creature
+Staggering Smite
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.paladin_5th">
+<summary>
+  Looks up a localized string similar to Banishing Smite
+Circle of Power
+Destructive Wave
+Dispel Evil and Good
+Geas
+Holy Weapon
+Raise Dead
+Summon Celestial.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.ranger_1st">
+<summary>
+  Looks up a localized string similar to Absorb Elements
+Alarm
+Animal Friendship
+Beast Bond
+Cure Wounds
+Detect Magic
+Detect Poison and Disease
+Ensnaring Strike
+Entangle
+Fog Cloud
+Goodberry
+Hail of Thorns
+Hunter&apos;s Mark
+Jump
+Longstrider
+Searing Smite
+Snare
+Speak with Animals
+Zephyr Strike
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.ranger_2nd">
+<summary>
+  Looks up a localized string similar to Aid
+Air Bubble
+Animal Messenger
+Barkskin
+Beast Sense
+Cordon of Arrows
+Darkvision
+Enhance Ability
+Find Traps
+Gust of Wind
+Healing Spirit
+Lesser Restoration
+Locate Animals or Plants
+Locate Object
+Magic Weapon
+Pass Without Trace
+Protection from Poison
+Silence
+Spike Growth
+Summon Beast
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.ranger_3rd">
+<summary>
+  Looks up a localized string similar to Ashardalon&apos;s Stride
+Conjure Animals
+Conjure Barrage
+Daylight
+Elemental Weapon
+Flame Arrows
+Lightning Arrow
+Meld into Stone
+Nondetection
+Plant Growth
+Protection from Energy
+Revivify
+Speak with Plants
+Summon Fey
+Water Breathing
+Water Walk
+Wind Wall
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.ranger_4th">
+<summary>
+  Looks up a localized string similar to Conjure Woodland Beings
+Dominate Beast
+Freedom of Movement
+Grasping Vine
+Guardian of Nature
+Locate Creature
+Stoneskin
+Summon Elemental
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.ranger_5th">
+<summary>
+  Looks up a localized string similar to Commune with Nature
+Conjure Volley
+Greater Restoration
+Steel Wind Strike
+Swift Quiver
+Tree Stride
+Wrath Of Nature
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.sorcerer_1st">
+<summary>
+  Looks up a localized string similar to Absorb Elements
+Burning Hands
+Catapult
+Chaos Bolt
+Charm Person
+Chromatic Orb
+Colour Spray
+Comprehend Languages
+Detect Magic
+Disguise Self
+Distort Value
+Earth Tremor
+Expeditious Retreat
+False Life
+Feather Fall
+Fog Cloud
+Grease
+Ice Knife
+Jump
+Mage Armor
+Magic Missile
+Ray of Sickness
+Shield
+Silent Image
+Silvery Barbs
+Sleep
+Tasha&apos;s Caustic Brew
+Thunderwave
+Witch Bolt
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.sorcerer_2nda">
+<summary>
+  Looks up a localized string similar to Aganazzar&apos;s Scorcher
+Air Bubble
+Alter Self
+Blindness/Deafness
+Blur
+Cloud of Daggers
+Crown of Madness
+Darkness
+Darkvision
+Detect Thoughts
+Dragon&apos;s Breath
+Dust Devil
+Earthbind
+Enhance Ability
+Enlarge/Reduce
+Flame Blade
+Flaming Sphere
+Gust of Wind
+Hold Person
+Invisibility
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.sorcerer_2ndb">
+<summary>
+  Looks up a localized string similar to Kinetic Jaunt
+Knock
+Levitate
+Magic Weapon
+Maximillian&apos;s Earthen Grasp
+Mind Spike
+Mirror Image
+Misty Step
+Nathair&apos;s Mischief
+Phantasmal Force
+Pyrotechnics
+Rime&apos;s Binding Ice
+Scorching Ray
+See Invisibility
+Shadow Blade
+Shatter
+Snilloc&apos;s Snowball Storm
+Spider Climb
+Spray Of Cards
+Suggestion
+Tasha&apos;s Mind Whip
+Vortex Warp
+Warding Wind
+Warp Sense
+Web
+Wither and Bloom
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.sorcerer_3rd">
+<summary>
+  Looks up a localized string similar to Antagonize
+Ashardalon&apos;s Stride
+Blink
+Catnap
+Clairvoyance
+Counterspell
+Daylight
+Dispel Magic
+Enemies Abound
+Erupting Earth
+Fear
+Fireball
+Flame Arrows
+Fly
+Gaseous Form
+Haste
+Hypnotic Pattern
+Incite Greed
+Intellect Fortress
+Lightning Bolt
+Major Image
+Melf&apos;s Minute Meteors
+Protection from Energy
+Sleet Storm
+Slow
+Stinking Cloud
+Thunder Step
+Tongues
+Vampiric Touch
+Wall of Water
+Water Breathing
+Water Walk
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.sorcerer_4th">
+<summary>
+  Looks up a localized string similar to Banishment
+Blight
+Charm Monster
+Confusion
+Dimension Door
+Dominate Beast
+Fire Shield
+Gate Seal
+Greater Invisibility
+Ice Storm
+Polymorph
+Raulothim&apos;s Psychic Lance
+Sickening Radiance
+Spirit Of Death
+Stoneskin
+Storm Sphere
+Vitriolic Sphere
+Wall of Fire
+Watery Sphere
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.sorcerer_5th">
+<summary>
+  Looks up a localized string similar to Animate Objects
+Bigby&apos;s Hand
+Cloudkill
+Cone of Cold
+Control Winds
+Creation
+Dominate Person
+Enervation
+Far Step
+Hold Monster
+Immolation
+Insect Plague
+Seeming
+Skill Empowerment
+Summon Draconic Spirit
+Synaptic Static
+Telekinesis
+Teleportation Circle
+Wall of Light
+Wall of Stone
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.sorcerer_6th">
+<summary>
+  Looks up a localized string similar to Arcane Gate
+Chain Lightning
+Circle of Death
+Disintegrate
+Eyebite
+Fizban&apos;s Platinum Shield
+Flesh to Stone
+Globe of Invulnerability
+Investiture of Flame
+Investiture of Ice
+Investiture of Stone
+Investiture of Wind
+Mass Suggestion
+Mental Prison
+Move Earth
+Otiluke&apos;s Freezing Sphere
+Scatter
+Sunbeam
+Tasha&apos;s Otherworldly Guise
+True Seeing
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.sorcerer_7th">
+<summary>
+  Looks up a localized string similar to Crown of Stars
+Delayed Blast Fireball
+Draconic Transformation
+Dream of the Blue Veil
+Etherealness
+Finger of Death
+Fire Storm
+Plane Shift
+Power Word Pain
+Prismatic Spray
+Reverse Gravity
+Teleport.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.sorcerer_8th">
+<summary>
+  Looks up a localized string similar to Abi Dalzim&apos;s Horrid Wilting
+Demiplane
+Dominate Monster
+Earthquake
+Incendiary Cloud
+Power Word Stun
+Sunburst.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.sorcerer_9th">
+<summary>
+  Looks up a localized string similar to Blade of Disaster
+Gate
+Mass Polymorph
+Meteor Swarm
+Power Word Kill
+Psychic Scream
+Time Stop
+Wish
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.sorcerer_cantrip">
+<summary>
+  Looks up a localized string similar to Acid Splash
+Blade Ward
+Booming Blade
+Chill Touch
+Control Flames
+Create Bonfire
+Dancing Lights
+Fire Bolt
+Friends
+Frostbite
+Green-Flame Blade
+Gust
+Infestation
+Light
+Lightning Lure
+Mage Hand
+Mending
+Message
+Mind Sliver
+Minor Illusion
+Mold Earth
+Poison Spray
+Prestidigitation
+Ray of Frost
+Shape Water
+Shocking Grasp
+Sword Burst
+Thunderclap
+True Strike
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.warlock_1st">
+<summary>
+  Looks up a localized string similar to Armor of Agathys
+Arms of Hadar
+Cause Fear
+Charm Person
+Comprehend Languages
+Distort Value
+Expeditious Retreat
+Hex
+Illusory Script
+Protection from Evil and Good
+Unseen Servant
+Witch Bolt
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.warlock_2nd">
+<summary>
+  Looks up a localized string similar to Borrowed Knowledge
+Cloud of Daggers
+Crown of Madness
+Darkness
+Earthbind
+Enthrall
+Flock of Familiars
+Hold Person
+Invisibility
+Mind Spike
+Mirror Image
+Misty Step
+Ray of Enfeeblement
+Shadow Blade
+Shatter
+Spider Climb
+Spray Of Cards
+Suggestion
+Warp Sense
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.warlock_3rd">
+<summary>
+  Looks up a localized string similar to Antagonize
+Counterspell
+Dispel Magic
+Enemies Abound
+Fear
+Fly
+Gaseous Form
+Hunger Of Hadar
+Hypnotic Pattern
+Incite Greed
+Intellect Fortress
+Magic Circle
+Major Image
+Remove Curse
+Spirit Shroud
+Summon Fey
+Summon Lesser Demons
+Summon Shadowspawn
+Summon Undead
+Thunder Step
+Tongues
+Vampiric Touch
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.warlock_4th">
+<summary>
+  Looks up a localized string similar to Banishment
+Blight
+Charm Monster
+Dimension Door
+Elemental Bane
+Galder&apos;s Speedy Courier
+Gate Seal
+Hallucinatory Terrain
+Raulothim&apos;s Psychic Lance
+Shadow Of Moil
+Sickening Radiance
+Spirit Of Death
+Summon Aberration
+Summon Greater Demon
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.warlock_5th">
+<summary>
+  Looks up a localized string similar to Contact Other Plane
+Danse Macabre
+Dream
+Enervation
+Far Step
+Hold Monster
+Infernal Calling
+Mislead
+Negative Energy Flood
+Planar Binding
+Scrying
+Synaptic Static
+Teleportation Circle
+Wall of Light
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.warlock_6th">
+<summary>
+  Looks up a localized string similar to Arcane Gate
+Circle of Death
+Conjure Fey
+Create Undead
+Eyebite
+Flesh to Stone
+Investiture of Flame
+Investiture of Ice
+Investiture of Stone
+Investiture of Wind
+Mass Suggestion
+Mental Prison
+Scatter
+Soul Cage
+Summon Fiend
+Tasha&apos;s Otherworldly Guise
+True Seeing
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.warlock_7th">
+<summary>
+  Looks up a localized string similar to Crown of Stars
+Dream of the Blue Veil
+Etherealness
+Finger of Death
+Forcecage
+Plane Shift
+Power Word Pain
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.warlock_8th">
+<summary>
+  Looks up a localized string similar to Demiplane
+Dominate Monster
+Feeblemind
+Glibness
+Maddening Darkness
+Power Word Stun.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.warlock_9th">
+<summary>
+  Looks up a localized string similar to Astral Projection
+Blade of Disaster
+Foresight
+Gate
+Imprisonment
+Power Word Kill
+Psychic Scream
+True Polymorph
+Weird
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.warlock_cantrip">
+<summary>
+  Looks up a localized string similar to Blade Ward
+Booming Blade
+Chill Touch
+Create Bonfire
+Eldritch Blast
+Friends
+Frostbite
+Green-Flame Blade
+Infestation
+Lightning Lure
+Mage Hand
+Magic Stone
+Mind Sliver
+Minor Illusion
+Poison Spray
+Prestidigitation
+Sword Burst
+Thunderclap
+Toll the Dead
+True Strike
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.wizard_1st">
+<summary>
+  Looks up a localized string similar to Absorb Elements
+Alarm
+Burning Hands
+Catapult
+Cause Fear
+Charm Person
+Chromatic Orb
+Colour Spray
+Comprehend Languages
+Detect Magic
+Disguise Self
+Distort Value
+Earth Tremor
+Expeditious Retreat
+False Life
+Feather Fall
+Find Familiar
+Fog Cloud
+Frost Fingers
+Gift of Alacrity
+Grease
+Ice Knife
+Identify
+Illusory Script
+Jim&apos;s Magic Missile
+Jump
+Longstrider
+Mage Armor
+Magic Missile
+Magnify Gravity
+Protection from Evil and Good
+Ray of Sickness
+Shield
+Silent Image
+Silvery Barbs
+Sleep
+ [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.wizard_2nda">
+<summary>
+  Looks up a localized string similar to Aganazzar&apos;s Scorcher
+Air Bubble
+Alter Self
+Arcane Lock
+Augury
+Blindness/Deafness
+Blur
+Borrowed Knowledge
+Cloud of Daggers
+Continual Flame
+Crown of Madness
+Darkness
+Darkvision
+Detect Thoughts
+Dragon&apos;s Breath
+Dust Devil
+Earthbind
+Enhance Ability
+Enlarge/Reduce
+Flaming Sphere
+Flock of Familiars
+Fortune&apos;s Favor
+Gentle Repose
+Gift of Gab
+Gust of Wind
+Hold Person
+Immovable Object
+Invisibility
+Jim&apos;s Glowing Coin
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.wizard_2ndb">
+<summary>
+  Looks up a localized string similar to Kinetic Jaunt
+Knock
+Levitate
+Locate Object
+Magic Mouth
+Magic Weapon
+Maximillian&apos;s Earthen Grasp
+Melf&apos;s Acid Arrow
+Mind Spike
+Mirror Image
+Misty Step
+Nathair&apos;s Mischief
+Nystul&apos;s Magic Aura
+Phantasmal Force
+Pyrotechnics
+Ray of Enfeeblement
+Rime&apos;s Binding Ice
+Rope Trick
+Scorching Ray
+See Invisibility
+Shadow Blade
+Shatter
+Skywrite
+Snilloc&apos;s Snowball Storm
+Spider Climb
+Spray Of Cards
+Suggestion
+Tasha&apos;s Mind Whip
+Vortex Warp
+Warding Wind
+Warp Sense
+Web
+Wither and Bloom
+Wristpocket [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.wizard_3rda">
+<summary>
+  Looks up a localized string similar to Animate Dead
+Antagonize
+Ashardalon&apos;s Stride
+Bestow Curse
+Blink
+Catnap
+Clairvoyance
+Counterspell
+Dispel Magic
+Enemies Abound
+Erupting Earth
+Fast Friends
+Fear
+Feign Death
+Fireball
+Flame Arrows
+Fly
+Galder&apos;s Tower
+Gaseous Form
+Glyph of Warding
+Haste
+Hypnotic Pattern
+Incite Greed
+Intellect Fortress
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.wizard_3rdb">
+<summary>
+  Looks up a localized string similar to Leomund&apos;s Tiny Hut
+Life Transference
+Lightning Bolt
+Magic Circle
+Major Image
+Melf&apos;s Minute Meteors
+Nondetection
+Phantom Steed
+Protection from Energy
+Pulse Wave
+Remove Curse
+Sending
+Sleet Storm
+Slow
+Speak with Dead
+Spirit Shroud
+Stinking Cloud
+Summon Fey
+Summon Lesser Demons
+Summon Shadowspawn
+Summon Undead
+Thunder Step
+Tidal Wave
+Tiny Servant
+Tongues
+Vampiric Touch
+Wall of Sand
+Wall of Water
+Water Breathing
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.wizard_4th">
+<summary>
+  Looks up a localized string similar to Arcane Eye
+Banishment
+Blight
+Charm Monster
+Confusion
+Conjure Minor Elementals
+Control Water
+Dimension Door
+Divination
+Elemental Bane
+Evard&apos;s Black Tentacles
+Fabricate
+Fire Shield
+Galder&apos;s Speedy Courier
+Gate Seal
+Gravity Sinkhole
+Greater Invisibility
+Hallucinatory Terrain
+Ice Storm
+Leomund&apos;s Secret Chest
+Locate Creature
+Mordenkainen&apos;s Faithful Hound
+Mordenkainen&apos;s Private Sanctum
+Otiluke&apos;s Resilient Sphere
+Phantasmal Killer
+Polymorph
+Raulothim&apos;s Psychic Lance
+Sickening Radiance
+S [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.wizard_5th">
+<summary>
+  Looks up a localized string similar to Animate Objects
+Bigby&apos;s Hand
+Cloudkill
+Cone of Cold
+Conjure Elemental
+Contact Other Plane
+Control Winds
+Create Spelljamming Helm
+Creation
+Danse Macabre
+Dawn
+Dominate Person
+Dream
+Enervation
+Far Step
+Geas
+Hold Monster
+Immolation
+Infernal Calling
+Legend Lore
+Mislead
+Modify Memory
+Negative Energy Flood
+Passwall
+Planar Binding
+Rary&apos;s Telepathic Bond
+Scrying
+Seeming
+Skill Empowerment
+Steel Wind Strike
+Summon Draconic Spirit
+Synaptic Static
+Telekinesis
+Teleportation Circle
+Tempor [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.wizard_6th">
+<summary>
+  Looks up a localized string similar to Arcane Gate
+Chain Lightning
+Circle of Death
+Contingency
+Create Homunculus
+Create Undead
+Disintegrate
+Drawmij&apos;s Instant Summons
+Eyebite
+Fizban&apos;s Platinum Shield
+Flesh to Stone
+Globe of Invulnerability
+Gravity Fissure
+Guards and Wards
+Investiture of Flame
+Investiture of Ice
+Investiture of Stone
+Investiture of Wind
+Magic Jar
+Mass Suggestion
+Mental Prison
+Move Earth
+Otiluke&apos;s Freezing Sphere
+Otto&apos;s Irresistible Dance
+Programmed Illusion
+Scatter
+Soul Cage
+Summon Fiend
+Sunbeam
+Tasha&apos;s [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.wizard_7th">
+<summary>
+  Looks up a localized string similar to Create Magen
+Crown of Stars
+Delayed Blast Fireball
+Draconic Transformation
+Dream of the Blue Veil
+Etherealness
+Finger of Death
+Forcecage
+Mirage Arcane
+Mordenkainen&apos;s Magnificent Mansion
+Mordenkainen&apos;s Sword
+Plane Shift
+Power Word Pain
+Prismatic Spray
+Project Image
+Reverse Gravity
+Sequester
+Simulacrum
+Symbol
+Teleport
+Tether Essence
+Whirlwind.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.wizard_8th">
+<summary>
+  Looks up a localized string similar to Abi Dalzim&apos;s Horrid Wilting
+Antimagic Field
+Antipathy/Sympathy
+Clone
+Control Weather
+Dark Star
+Demiplane
+Dominate Monster
+Feeblemind
+Illusory Dragon
+Incendiary Cloud
+Maddening Darkness
+Maze
+Mighty Fortress
+Mind Blank
+Power Word Stun
+Reality Break
+Sunburst
+Telepathy
+.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.wizard_9th">
+<summary>
+  Looks up a localized string similar to Astral Projection
+Blade of Disaster
+Foresight
+Gate
+Imprisonment
+Invulnerability
+Mass Polymorph
+Meteor Swarm
+Power Word Kill
+Prismatic Wall
+Psychic Scream
+Ravenous Void
+Shapechange
+Time Ravage
+Time Stop
+True Polymorph
+Weird
+Wish.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.wizard_cantrip">
+<summary>
+  Looks up a localized string similar to Acid Splash
+Blade Ward
+Booming Blade
+Chill Touch
+Control Flames
+Create Bonfire
+Dancing Lights
+Encode Thoughts
+Fire Bolt
+Friends
+Frostbite
+Green-Flame Blade
+Gust
+Infestation
+Light
+Lightning Lure
+Mage Hand
+Mending
+Message
+Mind Sliver
+Minor Illusion
+Mold Earth
+Poison Spray
+Prestidigitation
+Ray of Frost
+Sapping Sting
+Shape Water
+Shocking Grasp
+Sword Burst
+Thunderclap
+Toll the Dead
+True Strike
+.
 </summary>
 </member>
 </members>
