@@ -90,14 +90,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DND_HP.exe" size="1200128">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DND_HP.exe" size="1201152">
       <assemblyIdentity name="DND_HP" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ohRb2UpNAH5XfZ+GBAdkEqD7hHOsA5J6Xi5nU5iJEnA=</dsig:DigestValue>
+        <dsig:DigestValue>LX6npMxEd9i94YtetaC++Z/Hb0VFjjFBo73t+e095xw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -738,6 +738,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>ElMRQ2dKuw4hClP/ZCfHYfIY4a/TCnFVyrYTXly01Hw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\images\Mol_icon.ico" size="312462">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+Z5KbKs+WpGkiGIZbdETJulfvJxlacbrFeukU0/nQKo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="snapshot_blob.bin" size="275904">

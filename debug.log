@@ -95,3 +95,55 @@ ERROR: Failed parsing Certificate
 [1214/114226.160:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
 [1214/115739.243:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
 [1214/120012.109:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1214/232457.587:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1214/232525.897:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1214/232526.984:ERROR:backend_impl.cc(984)] Critical error found -8
+[1214/232526.984:WARNING:storage_block-inl.h(142)] Failed data load.
+[1214/232526.985:ERROR:entry_impl.cc(949)] Failed to save user data
+[1214/232711.225:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.e9dbd8c0.js (13)
+[1214/232711.226:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.d9b2fc96.js (2)
+[1214/233029.154:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1214/233037.261:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1214/233118.948:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.e9dbd8c0.js (13)
+[1214/233118.949:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.d9b2fc96.js (2)
+[1214/233118.979:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1214/233415.828:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1214/233423.084:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1214/233450.841:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.e9dbd8c0.js (13)
+[1214/233450.842:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.d9b2fc96.js (2)
+[1214/233541.560:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1214/233702.840:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1214/233736.636:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1214/233805.983:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1214/233949.958:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1214/234726.956:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1214/234733.837:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1214/234925.675:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.e9dbd8c0.js (13)
+[1214/234925.675:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.d9b2fc96.js (2)
+[1214/234925.714:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1215/194819.582:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/194838.350:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[1215/194932.659:INFO:CONSOLE(13)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/getRoomQueryParams.e9dbd8c0.js (13)
+[1215/194932.660:INFO:CONSOLE(2)] "interaction socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.d9b2fc96.js (2)
+[1215/195051.292:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/195250.757:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/214444.742:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/214827.951:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/214939.606:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/215140.738:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/215212.508:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/215419.719:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/215512.787:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/215606.284:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/215624.666:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/215655.598:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/215755.244:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1215/215818.354:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1217/021818.606:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1217/021853.088:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1217/022000.479:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1217/022227.443:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1217/022325.672:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1217/022808.707:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1217/022907.312:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[1220/171356.720:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
