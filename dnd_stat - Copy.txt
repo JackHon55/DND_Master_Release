@@ -1,11 +1,11 @@
-##*(Insert Name)
+##*Insert Name
 ##^
 ##EquipmentSlot-10
 ##SpellsKnown-10
 ##RBColors-Black,White,Purple,Yellow
 
 ##Block1 
-Inspiration:0
+Inspiration:1
 DeathSucc:0
 DeathFail:0
 Exhaustion:0
@@ -13,13 +13,19 @@ Exhaustion:0
 ##Block2 
 Walking Speed:0
 Initiative:0
-Prof. Bonus:0
+Prof. Bonus:2
 Passive Perception:0
 
 ##Block3 
-Hit Dice:Half/Long Rest,5,5,0,0
+Hit Dice:5d8,5,3,8,2
+Ki Points:6/Short Rest,3,3,0,0
+1st LvL Slots:2/Long Rest,2,2,0,0
+Rush Attack:3/Short Rest,3,3,0,0
+Richochet:3/Short Rest,3,3,0,0
 
 ##Block4 
+Rations:10/Downtime,10,10,0,0
+Messenger:1/Long Rest,1,1,0,0
 
 ##Block5 
 Temphp:0
@@ -63,6 +69,8 @@ Empty_9:||-8355712
 Empty_10:||-8355712
 
 ##Block12 
+1st Level:,2,2,0,0
+2nd Level:,1,1,0,0
 
 ##Block13 
 Absorb Elements:1st Level
