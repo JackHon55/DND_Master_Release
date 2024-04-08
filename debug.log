@@ -76,18 +76,3 @@ ERROR: Failed parsing Certificate
 [0317/114532.579:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
 [0402/174708.096:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
 [0406/010329.098:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
-[0406/010508.287:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
-[0406/010520.736:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
-[0406/010524.191:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
-[0406/010526.053:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
-ERROR: Couldn't read tbsCertificate as SEQUENCE
-ERROR: Failed parsing Certificate
-
-[0406/010531.778:INFO:CONSOLE(14)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.a416d7f8.js (14)
-[0406/010547.285:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
-[0406/010550.474:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
-[0406/010551.313:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
-ERROR: Couldn't read tbsCertificate as SEQUENCE
-ERROR: Failed parsing Certificate
-
-[0406/010557.727:INFO:CONSOLE(14)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.a416d7f8.js (14)
