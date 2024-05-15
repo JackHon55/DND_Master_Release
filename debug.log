@@ -76,3 +76,18 @@ ERROR: Failed parsing Certificate
 [0317/114532.579:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
 [0402/174708.096:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
 [0406/010329.098:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[0429/014753.815:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[0429/014757.639:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[0429/014759.825:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[0429/014803.066:INFO:CONSOLE(14)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.f5b74115.js (14)
+[0429/014803.081:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0429/014827.045:WARNING:policy_logger.cc(148)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[0429/014830.135:WARNING:dxgi_swap_chain_image_backing.cc(208)] First draw to surface should draw to everything
+[0429/014831.301:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[0429/014929.761:INFO:CONSOLE(14)] "realtime socket disconnect", source: https://www.owlbear.rodeo/assets/isJWTExpiredError.f5b74115.js (14)
