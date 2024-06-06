@@ -1,4 +1,4 @@
 # VORTEX - Virtual Overlay for Reimagined Tabletop EXperience
 DND online tool for those who dislikes alt-tabbing.
 
-To get started, read the vortex-instructions.pdf.
+To get started, read the [Vortex Instruction](https://github.com/JackHon55/DND_Master_Release/blob/Vortex/Vortex_Instructions.pdf)
