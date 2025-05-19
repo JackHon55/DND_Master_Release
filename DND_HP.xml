@@ -28,7 +28,7 @@ DND_HP
 Absorb Elements-Land:Defense
 Absorb Elements-Damage:Resistance Then^1d6 Elemental
 Absorb Elements-Info:Reaction;S;1 Round;Self
-Absorb Elements-LongInfo:1st-level abjuration^^The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of  [rest of string was truncated]&quot;;.
+Absorb Elements-LongInfo:1st-level abjuration^^The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._1stspella">
@@ -67,10 +67,7 @@ Entangle
 Expeditious Retreat
 Faerie Fire
 False Life
-Feather Fall
-Find Familiar
-Fog Cloud
-Frost  [rest of string was truncated]&quot;;.
+Feather F [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._1stspellh">
@@ -108,10 +105,7 @@ Tasha&apos;s Hideous Laughter
 Tenser&apos;s Floating Disk
 Thunderous Smite
 Thunderwave
-Unseen Servant
-Witch Bolt
-Wrathful Smite
-Zep [rest of string was truncated]&quot;;.
+Unseen Serv [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._2ndspell_lib">
@@ -120,7 +114,7 @@ Zep [rest of string was truncated]&quot;;.
 Aganazzar&apos;s Scorcher-Land:DEX save DC??
 Aganazzar&apos;s Scorcher-Damage:3d8 Fire / Half
 Aganazzar&apos;s Scorcher-Info:Action;V,S,M;Instant;30ft in a line 5ft wide and 30ft long
-Aganazzar&apos;s Scorcher-LongInfo:2nd-level evocation (a red dragon’s scale)^^A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a [rest of string was truncated]&quot;;.
+Aganazzar&apos;s Scorcher-LongInfo:2nd-level evocation (a red dragon’s scale)^^A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage  [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._2ndspella">
@@ -160,10 +154,7 @@ Flock of Familiars
 Fortune&apos;s Favor
 Gentle Repose
 Gift of Gab
-Gust of Wind
-Healing Spirit
-Heat Metal
-Hold Pe [rest of string was truncated]&quot;;.
+Gust of Win [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._2ndspellh">
@@ -199,9 +190,7 @@ Spiritual Weapon
 Spray Of Cards
 Suggestion
 Summon Beast
-Tasha&apos;s Mind Whip
-Vortex Warp
-Warding Bond [rest of string was truncated]&quot;;.
+Tasha&apos;s Min [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._3rdspell_lib">
@@ -210,7 +199,7 @@ Warding Bond [rest of string was truncated]&quot;;.
 Animate Dead-Land:Utility
 Animate Dead-Damage:1+ Undead Servant
 Animate Dead-Info:1 Minute;V,S,M;Instant;10 feet 1 Corpse
-Animate Dead-LongInfo:3rd-level necromancy (a drop of blood, a piece of flesh, and a pinch of bone dust)^^This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a skeleton if you chose bones or  [rest of string was truncated]&quot;;.
+Animate Dead-LongInfo:3rd-level necromancy (a drop of blood, a piece of flesh, and a pinch of bone dust)^^This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a skeleton if you chose bones [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._3rdspella">
@@ -287,9 +276,7 @@ Thunder Step
 Tidal Wave
 Tiny Servant
 Tongues
-Vampiric Touch
-Wall of Sand
-Wall [rest of string was truncated]&quot;;.
+ [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._4thspell_lib">
@@ -298,7 +285,7 @@ Wall [rest of string was truncated]&quot;;.
 Arcane Eye-Land:Utility
 Arcane Eye-Damage:Eye that sees
 Arcane Eye-Info:Action;V,S,M;Conc. 1 Hour;30ft with 30ft darkvision
-Arcane Eye-LongInfo:4th-level divination (a bit of bat fur)^^You create an invisible, magical eye within range that hovers in the air for the duration. You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.^^As an action, you can move the eye up to 30 feet in any direction. T [rest of string was truncated]&quot;;.
+Arcane Eye-LongInfo:4th-level divination (a bit of bat fur)^^You create an invisible, magical eye within range that hovers in the air for the duration. You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.^^As an action, you can move the eye up to 30 feet in any directio [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._4thspella">
@@ -334,8 +321,7 @@ Guardian of Faith
 Guardian of Nature
 Hallucinatory Terrain
 Ice Storm
-Leomund&apos;s Secret Chest
-Locate Creatur [rest of string was truncated]&quot;;.
+Leomun [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._5thspell_lib">
@@ -352,7 +338,7 @@ Antilife Shell:5th Level
 Antilife Shell-Land:Defense
 Antilife Shell-Damage:Prevents reaching you
 Antilife Shell-Info:Action;V,S;Conc. 1 Hour;Self 10ft radius
-Antilife Shell-Lon [rest of string was truncated]&quot;;.
+Antili [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._5thspella">
@@ -422,7 +408,7 @@ Tree Stride
 Wall of Force
 Wall of Light
 Wall of Stone
-Wrath Of Nature.
+Wrath Of Natur [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._6thspell_lib">
@@ -431,7 +417,7 @@ Wrath Of Nature.
 Arcane Gate-Land:Teleportation
 Arcane Gate-Damage:Portal
 Arcane Gate-Info:Action;V,S;Conc. 10 Minutes;500ft Portals
-Arcane Gate-LongInfo:6th-level conjuration^^You create linked teleportation portals that remain open for the duration. Choose two points on the ground that you can see, one point within 10 feet of you and one point within 500 feet of you. A circular portal, 10 feet in diameter, opens over each point. If the portal would open in the space occupied by a creature, the spell  [rest of string was truncated]&quot;;.
+Arcane Gate-LongInfo:6th-level conjuration^^You create linked teleportation portals that remain open for the duration. Choose two points on the ground that you can see, one point within 10 feet of you and one point within 500 feet of you. A circular portal, 10 feet in diameter, opens over each point. If the portal would open in the space occupied by a creature, the sp [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._6thspella">
@@ -467,8 +453,7 @@ Magic Jar
 Mass Suggestion
 Mental Prison
 Move Earth
-Otiluke&apos;s Freezing Sphere
-Otto&apos;s Irresis [rest of string was truncated]&quot;;.
+Otiluke&apos;s [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._7thspell_lib">
@@ -477,7 +462,7 @@ Otto&apos;s Irresis [rest of string was truncated]&quot;;.
 Conjure Celestial-Land:Summoning
 Conjure Celestial-Damage:Celestial &lt; CR4+ Abuse
 Conjure Celestial-Info:1 Minute;V,S;Conc. 1 Hour;90ft
-Conjure Celestial-LongInfo:7th-level conjuration^^You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.^^The celestial is friendly to you and your companions for the duration. Roll initiative for the c [rest of string was truncated]&quot;;.
+Conjure Celestial-LongInfo:7th-level conjuration^^You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.^^The celestial is friendly to you and your companions for the duration. Roll initiative for t [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._7thspella">
@@ -518,7 +503,7 @@ Whirlwind.
 Abi Dalzim&apos;s Horrid Wilting-Land:CON save DC??
 Abi Dalzim&apos;s Horrid Wilting-Damage:10d8 Necrotic
 Abi Dalzim&apos;s Horrid Wilting-Info:Action;V,S,M;Instant;150ft range 30ft cube
-Abi Dalzim&apos;s Horrid Wilting-LongInfo:8th-level necromancy (a bit of sponge)^^You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants and  [rest of string was truncated]&quot;;.
+Abi Dalzim&apos;s Horrid Wilting-LongInfo:8th-level necromancy (a bit of sponge)^^You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants  [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._8thspella">
@@ -555,7 +540,7 @@ Tsunami.
 Astral Projection-Land:Utility
 Astral Projection-Damage:Go into astral plane
 Astral Projection-Info:1 Hour;V,S,M;Special;10ft range 8 Targets
-Astral Projection-LongInfo:9th-level necromancy (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)^^You and up to eight willing creatures within range project your astral bodies into the Astral Plane [rest of string was truncated]&quot;;.
+Astral Projection-LongInfo:9th-level necromancy (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)^^You and up to eight willing creatures within range project your astral bodies into the Astral P [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources._9thspella">
@@ -582,6 +567,11 @@ True Polymorph
 True Resurrection
 Weird
 Wish.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.Armor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources.artificer_1st">
@@ -722,9 +712,7 @@ Mending
 Message
 Poison Spray
 Prestidigitation
-Ray of Frost
-Resistance
-Shocking Grasp [rest of string was truncated]&quot;;.
+ [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources.bard_1st">
@@ -945,10 +933,7 @@ Shape Water
 Shillelagh
 Shocking Grasp
 Spare the Dying
-Sword Burst
-Thaumaturgy
-Thorn Whip
-Thunder [rest of string was truncated]&quot;;.
+Swor [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources.cantrips_lib">
@@ -957,7 +942,7 @@ Thunder [rest of string was truncated]&quot;;.
 Fire Bolt-Land:To Hit d20+8
 Fire Bolt-Damage:2d10^(+4 Acid)
 Fire Bolt-Info:Action;V,S;Instant;1 Target 120ft
-Fire Bolt-LongInfo:5th Level Evocation Cantrip^You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.^^At Higher Levels. This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d [rest of string was truncated]&quot;;.
+Fire Bolt-LongInfo:5th Level Evocation Cantrip^You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.^^At Higher Levels. This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources.cleric_1st">
@@ -1355,6 +1340,19 @@ Thorn Whip
 Thunderclap.
 </summary>
 </member>
+<member name="P:DND_HP.My.Resources.Resources.Instructions">
+<summary>
+  Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot; ?&gt;
+&lt;root&gt;
+  &lt;attributes&gt;
+    Entering DnD Attributes^^Vortex assumes Core DnD stats with 6 attributes^^In the highlighted panel, you can RIGHT CLICK ON A COLOURED BOX TO EDIT^This brings up a new window^^- The list of skills are free for you to change^^- You can edit the score, the modifer, the bonuses to each skills, skill proficiencies, and advantage/disadvantages^^- You can also choose a preferred colour^^Save when done. If your skill list overflows, you can expand [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.Misc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:DND_HP.My.Resources.Resources.paladin_1st">
 <summary>
   Looks up a localized string similar to Bless
@@ -1523,6 +1521,11 @@ Swift Quiver
 Tree Stride
 Wrath Of Nature
 .
+</summary>
+</member>
+<member name="P:DND_HP.My.Resources.Resources.Shield">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources.sorcerer_1st">
@@ -2027,9 +2030,7 @@ Shield
 Silent Image
 Silvery Barbs
 Sleep
-Snare
-Tasha&apos;s Caustic Brew
-Tasha&apos;s H [rest of string was truncated]&quot;;.
+ [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources.wizard_2nda">
@@ -2101,8 +2102,7 @@ Warding Wind
 Warp Sense
 Web
 Wither and Bloom
-Wristpocket
-.
+Wristpocket [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources.wizard_3rda">
@@ -2198,8 +2198,6 @@ Phantasmal Killer
 Polymorph
 Raulothim&apos;s Psychic Lance
 Sickening Radiance
-Spirit Of Death
-Stone Shape
 S [rest of string was truncated]&quot;;.
 </summary>
 </member>
@@ -2239,9 +2237,7 @@ Summon Draconic Spirit
 Synaptic Static
 Telekinesis
 Teleportation Circle
-Temporal Shunt
-Transmute Rock
-Wall of Fo [rest of string was truncated]&quot;;.
+Tempor [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources.wizard_6th">
@@ -2275,8 +2271,7 @@ Scatter
 Soul Cage
 Summon Fiend
 Sunbeam
-Tasha&apos;s Otherworldly Guise
-Tenser&apos;s  [rest of string was truncated]&quot;;.
+Tasha&apos;s [rest of string was truncated]&quot;;.
 </summary>
 </member>
 <member name="P:DND_HP.My.Resources.Resources.wizard_7th">

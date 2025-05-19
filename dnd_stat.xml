@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<chracter name="Mol the Hrafn" level="5" class="3 Monk 2 Artificer" bkg="Craftsman">
+	<vtt link="https://www.owlbear.rodeo/room/7yDEIQjzipQ9/TheRedMeld" />
+	<token link="" />
+
+	<base_ac>
+		<parmor ac="13">
+			<mod>wis</mod>
+			<mod>dex</mod>
+		</parmor>
+	</base_ac>
+
+	<hpinfo>
+		<current>17</current>
+		<max>25</max>
+		<aid>0</aid>
+		<temp>10</temp>
+		<log>
+			<hplog activity="New Load">25/25 +0 (0)</hplog>
+			<hplog activity="Hp Change">17/25 +0 (0)</hplog>
+			<hplog activity="Hp Change">17/25 +0 (10)</hplog>
+		</log>
+	</hpinfo>
+
+	<stats>
+		<stat name="Proficiency Bonus">3</stat>
+		<stat name="Walking Speed">35</stat>
+		<stat name="Initiative">+2</stat>
+		<stat name="Spell MOD">+5</stat>
+		<stat name="Spell save">13</stat>
+		<stat name="Passive Perception">15</stat>
+		<stat name="Climbing Speed">35</stat>
+		<stat name="Swimming Speed">35</stat>
+	</stats>
+
+	<coininfo convert="10">
+		<cp>0</cp>
+		<sp>0</sp>
+		<gp>10</gp>
+		<pp>1</pp>
+	</coininfo>
+
+	<adventuring mainon="-6987" mainoff="-7876885" extraon="-8234539" extraoff="-43691">
+		<res name="Inspiration" info="Blessings from DM" count="3" used="" extra="" extraused=""/>
+		<res name="Death Saves" info="You got this!" count="3" used="" extra="3" extraused=""/>
+		<res name="Exhaustion" info="Get some rest" count="6" used="" extra="" extraused=""/>
+		<res name="Rations" info="10gp" count="10" used="2" extra="" extraused=""/>
+	</adventuring>
+
+	<combat mainon="-6987" mainoff="-7876885" extraon="-8234539" extraoff="-43691">
+		<res name="Hit Dice" info="d8s per long rest" count="4" used="2" extra="" extraused=""/>
+		<res name="Super Jump" info="Mega jump!" count="3" used="1" extra="" extraused=""/>
+	</combat>
+
+	<attributes>
+		<str colcode="-6987">
+			<score roll="adv" bonus="0" modbonus="0">18</score>
+			<skill prof="yes" roll="none" bonus="1">Saving</skill>
+			<skill prof="yes" roll="none" bonus="0">Athletics</skill>
+		</str>
+		<dex colcode="-6751336">
+			<score roll="none" bonus="0" modbonus="1">13</score>
+			<skill prof="yes" roll="none" bonus="0">Saving</skill>
+			<skill prof="exp" roll="none" bonus="0">Acrobatics</skill>
+			<skill prof="yes" roll="adv" bonus="0">Sleight</skill>
+			<skill prof="no" roll="dis" bonus="2">Stealth</skill>
+		</dex>
+		<con colcode="-43691">
+			<score roll="none" bonus="0" modbonus="0">16</score>
+			<skill prof="yes" roll="none" bonus="1">Saving</skill>
+		</con>
+		<int colcode="-7876885">
+			<score roll="dis" bonus="0" modbonus="0">14</score>
+			<skill prof="no" roll="none" bonus="1">Saving</skill>
+			<skill prof="no" roll="none" bonus="0">Arcana</skill>
+			<skill prof="yes" roll="none" bonus="0">History</skill>
+			<skill prof="no" roll="none" bonus="0">Investigate</skill>
+			<skill prof="no" roll="none" bonus="0">Nature</skill>
+			<skill prof="no" roll="none" bonus="0">Religion</skill>
+		</int>
+		<wis colcode="-8234539">
+			<score roll="none" bonus="0" modbonus="0">8</score>
+			<skill prof="no" roll="none" bonus="1">Saving</skill>
+			<skill prof="no" roll="none" bonus="0">Animal</skill>
+			<skill prof="no" roll="none" bonus="0">Insight</skill>
+			<skill prof="no" roll="none" bonus="0">Medicine</skill>
+			<skill prof="no" roll="none" bonus="0">Perception</skill>
+			<skill prof="no" roll="none" bonus="0">Survival</skill>
+		</wis>
+		<cha colcode="-23296">
+			<score roll="none" bonus="0" modbonus="0">10</score>
+			<skill prof="no" roll="none" bonus="1">Saving</skill>
+			<skill prof="no" roll="none" bonus="0">Deception</skill>
+			<skill prof="yes" roll="none" bonus="0">Intimidation</skill>
+			<skill prof="no" roll="none" bonus="0">Performance</skill>
+			<skill prof="no" roll="none" bonus="0">Persuasion</skill>
+		</cha>
+	</attributes>
+
+	<equipment slots="12">
+		<item colcode="-23296">
+			<name>Steel Hammer +1</name>
+			<short></short>
+			<damages>
+				<damage description="Melee">
+					<tohit type="Melee Attack" mod="dex"></tohit>
+					<basedice type="Bludgeoning">1d6</basedice>
+					<extradmg mod="str"></extradmg>
+				</damage>
+			</damages>
+			<prep>action</prep>
+			<long>Very ornate and sturdy hammer</long>
+		</item>
+		<item colcode="-23296">
+			<name>Shield</name>
+			<short>AC +2</short>
+			<long>Nice round shield</long>
+			<prep></prep>
+			<parmor type="shield" ac="1" equipped="F"></parmor>
+		</item>
+		<item colcode="-23296">
+			<name>Shield +1</name>
+			<short>AC +3</short>
+			<long>Nice round shield</long>
+			<prep></prep>
+			<parmor type="shield" ac="1" equipped="F"></parmor>
+		</item>
+		<item colcode="-7876885">
+			<name>Ring of Protection</name>
+			<short>AC +1 Saving +1</short>
+			<long>Nice cute ring</long>
+			<prep></prep>
+			<parmor type="misc" ac="1" equipped="F"></parmor>
+		</item>
+		<item colcode="-7876885">
+			<name>Gauntlets of Defense</name>
+			<short>AC +2</short>
+			<long>Nice sturdy gauntlets</long>
+			<prep></prep>
+			<parmor type="misc" ac="2" equipped="F"></parmor>
+		</item>
+		<item colcode="-6987">
+			<name>Leather Armor</name>
+			<short>AC 16 + dex (max2)</short>
+			<long>Nice rugged armor</long>
+			<parmor type="armor" ac="16" equipped="F">
+				<mod max="2">dex</mod>
+			</parmor>
+			<prep></prep>
+		</item>
+		<item colcode="-6987">
+			<name>Plate Armor</name>
+			<short>AC 19</short>
+			<long>Nice shiny armor</long>
+			<parmor type="armor" ac="19" equipped="F"></parmor>
+			<prep></prep>
+		</item>
+	</equipment>
+
+	<spellslots mainon="-6987" mainoff="-7876885" extraon="-8234539" extraoff="-43691">
+		<res name="Level 1" info="5 per long rest and 2 from item" count="5" used="2" extra="2" extraused="1"/>
+		<res name="Level 2" info="" count="3" used="1" extra="" extraused=""/>
+	</spellslots>
+
+	<spell slots="5">
+		<item colcode="-7876885" casttime="Action" level="1" empty="F">
+			<name>Mage Armor</name>
+			<cast component="VSM" duration="8 Hours" concentration="F">Touch 1 Target with no Armor</cast>
+			<prep>action,bonus,react</prep>
+			<effects>
+				<effect title="Grants Armor">8 Hours. Touch 1 Target with no Armor</effect>
+			</effects>
+			<marmor type="armor" ac="13">
+				<mod>dex</mod>
+			</marmor>
+			<long>
+				1st-level abjuration (a piece of cured leather)
+
+				You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+			</long>
+		</item>
+		<item colcode="-7876885" casttime="Action" level="0" empty="F">
+			<name>Firebolt</name>
+			<cast component="VS" duration="Instant" mod="int" concentration="F">1 Target 120ft</cast>
+			<damages>
+				<damage description="120ft Range">
+					<tohit type="Spell Attack" mod="int" prof="T"></tohit>
+					<basedice type="Fire" savehalf="F">1d10</basedice>
+					<extradmg mod=""></extradmg>
+					<scaling>5th level (2d10), 11th level (3d10), and 17th level (4d10)</scaling>
+				</damage>
+				<damage description="Bonus Cold">
+					<tohit type="CON Save" mod="" prof="T">+1</tohit>
+					<basedice type="Cold" savehalf="T">2d4</basedice>
+					<extradmg mod="">+1</extradmg>
+					<scaling></scaling>
+				</damage>
+			</damages>
+			<prep>action,react</prep>
+			<long>
+				You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
+
+				At Higher Levels. This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+			</long>
+		</item>
+		<item colcode="-7876885" casttime="Action" level="3" empty="F">
+			<name>Fireball</name>
+			<cast component="VSM" duration="Instantaneous" concentration="T">150ft 30ft radius</cast>
+			<damages>
+				<damage description="150ft 30ft radius">
+					<tohit type="DEX Save" mod="int" prof="T"></tohit>
+					<basedice type="Fire" savehalf="T">8d6</basedice>
+					<extradmg mod=""></extradmg>
+					<scaling>1d6 per 1 level</scaling>
+				</damage>
+			</damages>
+			<prep>action</prep>
+			<long>
+				A bright streak flashes from your pointing finger to a point you choose within range then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot radius must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.
+
+				At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+			</long>
+		</item>
+	</spell>
+
+	<features>
+		<item origin="Developer">
+			<name>General Hacking</name>
+			<short>Set the stat of any creature within sight</short>
+			<long>There are no restrains, you can do whatever the fuck you want</long>
+		</item>
+		<item origin="Hfarn">
+			<name>Squeaky Voice</name>
+			<short>Hi, I am Mol!</short>
+			<long>Persuasion Checks have advantage if I roleplay well with my Squeaky Voice</long>
+		</item>
+	</features>
+
+	<notes>
+		<item>
+			<name></name>
+			<long>hi, I am Mol. Nice to meet you</long>
+		</item>
+	</notes>
+</chracter>
